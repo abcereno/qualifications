@@ -4442,445 +4442,166 @@
     }
   ],
   "UEE32225": [
-{
-      "code": "BSBDSP203",
-      "name": "Deliver a service to customers",
-      "desc": "This unit outlines the skills and knowledge required to deliver customer service at an introductory level. It includes creating relationships with customers, identifying their needs, delivering services or products, and processing customer feedback. The unit applies to individuals performing routine tasks in the workplace using a limited range of practical skills and fundamental customer service knowledge, typically under direct supervision or with limited individual responsibility. Key skills include greeting customers, establishing rapport, identifying needs, providing prompt service, and responding to feedback in line with organisational standards. Knowledge of customer service legislation, consumer law, and workplace policies is also required",
-      "type": "not included"
-    },
-    {
-      "code": "ICTICT214",
-      "name": "Operate application software packages",
-      "desc": "This unit describes the skills and knowledge required to identify, select, and operate commercial software packages, including word-processing and spreadsheet applications. It applies to individuals working in small to large office environments who use various software applications to produce diverse documents. Key skills include producing workplace documents using different software packages, applying workplace health and safety (WHS) principles, and adhering to organisational requirements.",
-      "type": "elective",
-      "group": "A"
-    },
     {
       "code": "UEECD0007",
-      "name": "Apply work health and safety regulations codes and practices in the workplace",
-      "desc": "This unit focuses on applying work health and safety (WHS) regulations, codes, and practices in an electrical workplace. It covers identifying hazards, assessing risks, and implementing control measures to ensure a safe working environment. The unit is essential for individuals working in the electrotechnology industry, ensuring compliance with WHS legislation and organisational policies. Skills include using personal protective equipment (PPE), following emergency procedures, and maintaining safety documentation. Knowledge of WHS principles, hazard identification, and risk assessment is also required.",
+      "name": "Apply work health and safety regulations, codes and practices in the workplace",
+      "desc": "This unit outlines the skills and knowledge required to apply work health and safety (WHS) regulations, codes and practices when performing work functions in the electrotechnology industry. It includes identifying hazards, assessing risks, and implementing control measures in line with industry and legislative requirements.",
+      "type": "core"
+    },
+    {
+      "code": "UEECD0016",
+      "name": "Document and apply measures to control WHS risks associated with electrotechnology work",
+      "desc": "This unit involves identifying, documenting, and applying WHS/OHS hazard and risk control measures. It includes identifying workplace hazards, assigning risk levels, developing control measures to eliminate or mitigate risks, and maintaining documentation in accordance with compliance procedures.",
       "type": "core"
     },
     {
       "code": "UEECD0019",
-      "name": "Develop and connect electrical control circuits",
-      "desc": "This unit involves developing and connecting electrical control circuits, including interpreting circuit diagrams, selecting components, and testing circuits for functionality. It applies to individuals working in the electrotechnology industry who are responsible for assembling and maintaining control systems. Key skills include using tools and equipment, following technical specifications, and ensuring compliance with safety standards. Knowledge of electrical principles, circuit design, and testing procedures is essential. The unit ensures individuals can safely and effectively develop and connect control circuits in line with industry requirements.",
+      "name": "Fabricate, assemble and dismantle utilities industry components",
+      "desc": "This unit involves the skills and knowledge required to fabricate, assemble, and dismantle utilities industry components using fitting and metal fabrication techniques. It includes interpreting drawings, using hand and power tools safely, and joining components using various methods.",
       "type": "core"
-    },
-    {
-      "code": "UEECD0027",
-      "name": "Participate in development and follow a personal competency development plan",
-      "desc": "This unit focuses on developing and following a personal competency development plan to enhance skills and knowledge in the electrotechnology industry. It involves identifying learning needs, setting goals, and participating in activities to achieve competency. The unit applies to individuals seeking to improve their professional capabilities and career progression. Skills include self-assessment, planning, and implementing development activities, while knowledge of learning strategies and industry requirements is also required. The unit supports continuous professional development and adherence to industry standards.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0028",
-      "name": "Solve problems in single and three phase low voltage electrical apparatus and circuits",
-      "desc": "This unit focuses on developing the skills and knowledge required to solve problems in single and three-phase low voltage electrical apparatus and circuits. It includes identifying and rectifying faults, interpreting circuit diagrams, and applying safe work practices in accordance with workplace health and safety (WHS) regulations. The unit is essential for individuals working in the electrotechnology industry, ensuring they can diagnose and resolve issues in electrical systems effectively. Key skills include testing circuits, using diagnostic tools, and applying theoretical knowledge to practical scenarios. Knowledge of electrical principles, circuit design, and safety standards is also required.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0044",
-      "name": "Solve problems in multiple path extra low voltage DC circuits",
-      "desc": "This unit involves solving problems in multiple path extra low voltage (ELV) direct current (DC) circuits. It covers identifying faults, interpreting circuit diagrams, and applying corrective measures to ensure proper circuit operation. The unit applies to individuals working with ELV systems, such as those found in renewable energy installations or electronic devices. Skills include using testing equipment, analysing circuit performance, and adhering to safety protocols. Knowledge of DC circuit principles, fault-finding techniques, and relevant industry standards is essential.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0051",
-      "name": "Use drawings diagrams schedules standards and specifications",
-      "desc": "This unit focuses on interpreting and applying technical drawings, diagrams, schedules, standards, and specifications in the electrotechnology industry. It includes reading and understanding electrical schematics, identifying components, and ensuring compliance with industry standards. The unit is critical for individuals involved in designing, installing, or maintaining electrical systems. Key skills include interpreting complex diagrams, applying standards to practical tasks, and documenting work processes. Knowledge of electrical symbols, industry regulations, and quality assurance practices is also required.",
-      "type": "core"
-    },
-    {
-      "code": "UEECD0052",
-      "name": "Fabricate assemble and dismantle utilities industry components",
-      "desc": "This unit involves fabricating, assembling, and dismantling components used in the utilities industry. It includes selecting materials, using tools and equipment, and following technical specifications to construct or disassemble components. The unit applies to individuals working in roles that require mechanical and electrical assembly skills. Key skills include operating machinery, interpreting technical drawings, and ensuring components meet quality standards. Knowledge of fabrication techniques, safety procedures, and industry requirements is essential.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0056",
-      "name": "Fix and secure electrotechnology equipment",
-      "desc": "This unit focuses on fixing and securing electrotechnology equipment to ensure safe and reliable operation. It includes installing, maintaining, and repairing electrical equipment in compliance with WHS regulations and industry standards. The unit applies to individuals responsible for the upkeep of electrical systems and devices. Key skills include using tools, diagnosing faults, and applying corrective measures. Knowledge of equipment installation, maintenance procedures, and safety protocols is also required.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0029",
-      "name": "Solve problems in ELV single path circuits",
-      "desc": "This unit focuses on developing the skills and knowledge required to solve problems in extra-low voltage (ELV) single path circuits. It involves identifying and rectifying faults, interpreting circuit diagrams, and applying safe work practices in accordance with workplace health and safety (WHS) regulations. The unit is essential for individuals working in the electrotechnology industry, ensuring they can diagnose and resolve issues in ELV systems effectively. Key skills include using testing equipment, analysing circuit performance, and adhering to safety protocols. Knowledge of electrical principles, fault-finding techniques, and relevant industry standards is also required.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0045",
-      "name": "Use instrumentation drawings specifications and standards",
-      "desc": "This unit involves interpreting and applying instrumentation drawings, specifications, and standards in the electrotechnology industry. It includes reading and understanding technical diagrams, identifying components, and ensuring compliance with industry standards. The unit is critical for individuals involved in designing, installing, or maintaining instrumentation systems. Key skills include interpreting complex drawings, applying standards to practical tasks, and documenting work processes. Knowledge of instrumentation symbols, industry regulations, and quality assurance practices is also required.",
-      "type": "not included"
-    },
-    {
-      "code": "UEERA0049",
-      "name": "Install and start up single head split air conditioning and water heating heat pump systems",
-      "desc": "This unit covers the installation and commissioning of single head split air conditioning systems and water heating heat pump systems. It includes selecting equipment, following technical specifications, and ensuring systems operate efficiently and safely. The unit applies to individuals working in the refrigeration and air conditioning industry. Key skills include using tools and equipment, testing system performance, and adhering to safety and environmental regulations. Knowledge of refrigeration principles, system components, and installation procedures is essential.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEC0001",
-      "name": "Assemble and set up basic wired and wireless security systems",
-      "desc": "This unit focuses on assembling and setting up basic wired and wireless security systems. It includes interpreting technical diagrams, selecting components, and configuring systems for optimal performance. The unit applies to individuals working in the security systems industry. Key skills include using tools, testing system functionality, and ensuring compliance with industry standards. Knowledge of security system components, installation procedures, and safety protocols is also required.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0046",
-      "name": "Solve problems in single path circuits",
-      "desc": "This unit involves solving problems in single path circuits, including identifying faults, interpreting circuit diagrams, and applying corrective measures. It applies to individuals working in the electrotechnology industry, particularly those dealing with electrical systems. Key skills include using testing equipment, analysing circuit performance, and adhering to safety protocols. Knowledge of electrical principles, fault-finding techniques, and relevant industry standards is essential.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEC0075",
-      "name": "Troubleshoot single phase motors and associated controls",
-      "desc": "This unit focuses on developing the skills and knowledge required to troubleshoot single-phase motors and their associated control systems. It involves identifying faults, interpreting circuit diagrams, and applying corrective measures to ensure proper operation. The unit is essential for individuals working in the electrotechnology industry, particularly those dealing with electrical machinery. Key skills include using diagnostic tools, testing motor performance, and adhering to safety protocols. Knowledge of motor principles, fault-finding techniques, and relevant industry standards is also required. This unit ensures individuals can effectively diagnose and resolve issues in single-phase motor systems.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEC0077",
-      "name": "Install and commission programmable controllers",
-      "desc": "This unit covers the installation and commissioning of programmable logic controllers (PLCs) in industrial settings. It includes interpreting technical specifications, configuring systems, and ensuring compliance with workplace health and safety (WHS) regulations. The unit applies to individuals responsible for setting up and maintaining automated control systems. Key skills include programming PLCs, testing system functionality, and troubleshooting faults. Knowledge of control systems, programming languages, and industry standards is essential. This unit ensures individuals can effectively install and commission PLCs to meet operational requirements.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0036",
-      "name": "Install appliances meet electrical compliance requirements and connect accessories",
-      "desc": "This unit involves installing electrical appliances, ensuring compliance with electrical standards, and connecting accessories. It includes interpreting technical diagrams, selecting appropriate components, and testing installations for safety and functionality. The unit applies to individuals working in the electrotechnology industry, particularly those involved in residential or commercial installations. Key skills include using tools, adhering to WHS protocols, and applying electrical principles. Knowledge of compliance requirements, installation procedures, and testing methods is also required. This unit ensures individuals can safely and effectively install appliances and accessories.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0003",
-      "name": "Conduct electrical tests on LV electrical machines",
-      "desc": "This unit focuses on conducting electrical tests on low voltage (LV) electrical machines to ensure proper operation and safety. It includes interpreting test results, identifying faults, and applying corrective measures. The unit applies to individuals responsible for maintaining and repairing electrical machinery. Key skills include using testing equipment, analysing performance data, and adhering to safety protocols. Knowledge of electrical principles, testing procedures, and industry standards is essential. This unit ensures individuals can effectively test and maintain LV electrical machines.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0013",
-      "name": "Prepare and connect refrigerant tubing and fittings",
-      "desc": "This unit covers the preparation and connection of refrigerant tubing and fittings in refrigeration and air conditioning systems. It includes selecting materials, cutting and bending tubing, and ensuring leak-free connections. The unit applies to individuals working in the refrigeration industry. Key skills include using tools, following technical specifications, and adhering to safety and environmental regulations. Knowledge of refrigeration principles, tubing techniques, and industry standards is essential. This unit ensures individuals can effectively prepare and connect refrigerant components.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEIC0002",
-      "name": "Install and commission sensors actuators and associated equipment",
-      "desc": "This unit involves the skills and knowledge required to install and commission sensors, actuators, and associated equipment in industrial and commercial settings. It includes interpreting technical specifications, selecting appropriate components, and ensuring systems operate efficiently and safely. The unit applies to individuals working in the instrumentation and control industry. Key skills include configuring devices, testing system functionality, and troubleshooting faults. Knowledge of sensor and actuator principles, installation procedures, and compliance with industry standards is essential. This unit ensures individuals can effectively install and commission equipment to meet operational requirements.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0039",
-      "name": "Install low voltage electrical apparatus and associated equipment",
-      "desc": "This unit focuses on installing low voltage (LV) electrical apparatus and associated equipment in compliance with regulatory requirements. It includes interpreting technical diagrams, selecting appropriate components, and ensuring safe installation practices. The unit applies to individuals working in the electrotechnology industry, particularly those involved in residential or commercial installations. Key skills include using tools, adhering to workplace health and safety (WHS) protocols, and applying electrical principles. Knowledge of compliance requirements, installation procedures, and testing methods is also required. This unit ensures individuals can safely and effectively install LV electrical apparatus.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0033",
-      "name": "Produce engineering solutions",
-      "desc": "This unit involves developing engineering solutions to address technical problems in the electrotechnology industry. It includes analysing requirements, designing solutions, and documenting processes. The unit applies to individuals responsible for problem-solving and innovation in electrical and electronic systems. Key skills include using engineering tools, applying theoretical knowledge, and adhering to industry standards. Knowledge of engineering principles, design methodologies, and compliance requirements is essential. This unit ensures individuals can produce effective and compliant engineering solutions.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEHA0004",
-      "name": "Enter and verify operating instructions in microprocessor equipped devices",
-      "desc": "This unit covers the skills and knowledge required to enter and verify operating instructions in microprocessor-equipped devices. It includes configuring devices, testing functionality, and ensuring compliance with technical specifications. The unit applies to individuals working with automated systems and control devices. Key skills include programming microprocessors, troubleshooting faults, and adhering to safety protocols. Knowledge of microprocessor operation, programming languages, and industry standards is essential. This unit ensures individuals can effectively configure and verify microprocessor-equipped devices.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEC0017",
-      "name": "Troubleshoot single phase motors",
-      "desc": "This unit focuses on troubleshooting single-phase motors to identify and rectify faults. It includes interpreting circuit diagrams, testing motor performance, and applying corrective measures. The unit applies to individuals working in the electrotechnology industry, particularly those dealing with electrical machinery. Key skills include using diagnostic tools, analysing performance data, and adhering to safety protocols. Knowledge of motor principles, fault-finding techniques, and relevant industry standards is essential. This unit ensures individuals can effectively diagnose and resolve issues in single-phase motor systems.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0012",
-      "name": "Troubleshoot in single and three phase low voltage electrical apparatus and circuits",
-      "desc": "This unit focuses on troubleshooting faults in single and three-phase low voltage (LV) electrical apparatus and circuits. It involves identifying issues, interpreting circuit diagrams, and applying corrective measures to ensure proper operation. The unit is essential for individuals working in the electrotechnology industry, particularly those involved in servicing and maintaining electrical systems. Key skills include using diagnostic tools, testing circuits, and adhering to workplace health and safety (WHS) protocols. Knowledge of electrical principles, fault-finding techniques, and compliance with industry standards is also required. This unit ensures individuals can effectively diagnose and resolve issues in LV electrical systems.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0011",
-      "name": "Troubleshoot single and three phase low voltage electrical systems",
-      "desc": "This unit involves troubleshooting faults in single and three-phase low voltage (LV) electrical systems. It includes identifying problems, interpreting technical diagrams, and applying solutions to restore system functionality. The unit applies to individuals working in the electrotechnology industry, particularly those responsible for maintaining electrical installations. Key skills include using testing equipment, analysing system performance, and adhering to safety protocols. Knowledge of electrical systems, fault-finding procedures, and industry standards is essential. This unit ensures individuals can effectively troubleshoot and repair LV electrical systems.",
-      "type": "elective",
-      "group": "A"
-    },
-    {
-      "code": "UEECD0037",
-      "name": "Install and maintain surge protection devices",
-      "desc": "This unit covers the installation and maintenance of surge protection devices (SPDs) in electrical systems. It includes selecting appropriate devices, following technical specifications, and ensuring compliance with safety standards. The unit applies to individuals working in the electrotechnology industry, particularly those involved in protecting electrical equipment from voltage surges. Key skills include using tools, testing SPD functionality, and adhering to WHS protocols. Knowledge of surge protection principles, installation procedures, and industry standards is essential. This unit ensures individuals can effectively install and maintain SPDs.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0035",
-      "name": "Provide solutions to basic engineering computational problems",
-      "desc": "This unit involves solving basic engineering computational problems using mathematical and technical knowledge. It includes analysing data, applying formulas, and documenting solutions. The unit applies to individuals working in the electrotechnology industry, particularly those involved in design and problem-solving roles. Key skills include using computational tools, interpreting technical data, and adhering to industry standards. Knowledge of mathematical principles, engineering concepts, and problem-solving techniques is essential. This unit ensures individuals can provide accurate and effective solutions to engineering problems.",
-      "type": "elective",
-      "group": "A"
-    },
-    {
-      "code": "UEECD0038",
-      "name": "Plan and initiate the installation of electrotechnology equipment",
-      "desc": "This unit focuses on planning and initiating the installation of electrotechnology equipment. It includes interpreting technical specifications, selecting appropriate components, and ensuring compliance with safety standards. The unit applies to individuals responsible for installing electrical systems and equipment. Key skills include project planning, using tools, and adhering to WHS protocols. Knowledge of installation procedures, equipment selection, and industry standards is essential. This unit ensures individuals can effectively plan and initiate installations.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0042",
-      "name": "Solve problems in single and three phase low voltage machines",
-      "desc": "This unit involves solving problems in single and three-phase low voltage (LV) machines. It includes identifying faults, interpreting technical diagrams, and applying corrective measures. The unit applies to individuals working in the electrotechnology industry, particularly those dealing with electrical machinery. Key skills include using diagnostic tools, testing machine performance, and adhering to safety protocols. Knowledge of machine principles, fault-finding techniques, and industry standards is essential. This unit ensures individuals can effectively diagnose and resolve issues in LV machines.",
-      "type": "core"
-    },
-    {
-      "code": "UEECD0049",
-      "name": "Develop compliance policies and plans to conduct an electrical contracting business",
-      "desc": "This unit focuses on developing compliance policies and plans for operating an electrical contracting business. It includes interpreting regulations, creating policies, and ensuring adherence to industry standards. The unit applies to individuals managing or operating electrical contracting businesses. Key skills include policy development, risk assessment, and compliance monitoring. Knowledge of legal requirements, business practices, and industry standards is essential. This unit ensures individuals can effectively manage compliance in their business operations.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0016",
-      "name": "Document and apply measures to control OHS risks associated with electrotechnology work",
-      "desc": "This unit involves documenting and applying measures to control occupational health and safety (OHS) risks in electrotechnology work. It includes identifying hazards, assessing risks, and implementing control measures. The unit applies to individuals responsible for ensuring workplace safety in the electrotechnology industry. Key skills include risk assessment, documentation, and adherence to WHS protocols. Knowledge of OHS principles, hazard identification, and industry standards is essential. This unit ensures individuals can effectively manage and mitigate OHS risks.",
-      "type": "core"
-    },
-    {
-      "code": "UEECD0054",
-      "name": "Use routine equipment methodically and sustainably",
-      "desc": "This unit focuses on using routine equipment in a methodical and sustainable manner. It includes selecting appropriate tools, following procedures, and minimising environmental impact. The unit applies to individuals working in the electrotechnology industry, particularly those involved in equipment maintenance and operation. Key skills include equipment handling, sustainability practices, and adherence to safety protocols. Knowledge of equipment operation, maintenance procedures, and environmental standards is essential. This unit ensures individuals can use equipment efficiently and responsibly.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0007",
-      "name": "Develop detailed electrical drawings",
-      "desc": "This unit involves developing detailed electrical drawings for electrotechnology projects. It includes interpreting technical specifications, creating diagrams, and ensuring compliance with industry standards. The unit applies to individuals responsible for designing electrical systems. Key skills include using drafting tools, interpreting standards, and documenting designs. Knowledge of electrical symbols, drafting techniques, and industry regulations is essential. This unit ensures individuals can produce accurate and compliant electrical drawings.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0053",
-      "name": "Wire and test low voltage three phase motors",
-      "desc": "This unit involves wiring and testing low voltage three-phase motors, ensuring they operate safely and efficiently. It includes interpreting technical diagrams, selecting appropriate components, and connecting motor terminals correctly. Testing procedures involve checking continuity, insulation resistance, and motor performance under load. The unit applies to individuals working in the electrotechnology industry, particularly those involved in motor installation and maintenance. Key skills include using testing equipment, adhering to workplace health and safety (WHS) protocols, and applying electrical principles. Knowledge of motor wiring configurations, testing methods, and compliance with industry standards is essential. This unit ensures individuals can effectively wire and test low voltage three-phase motors.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0008",
-      "name": "Carry out preparatory energy sector work activities",
-      "desc": "This unit focuses on preparing for energy sector work activities, including planning, risk assessment, and resource allocation. It involves interpreting work orders, identifying hazards, and ensuring compliance with safety regulations. The unit applies to individuals working in the energy sector, particularly those involved in project planning and execution. Key skills include using planning tools, adhering to WHS protocols, and coordinating resources. Knowledge of energy sector requirements, safety standards, and project management principles is essential. This unit ensures individuals can effectively prepare for energy sector work activities.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0015",
-      "name": "Provide engineering solutions for uses of materials and thermodynamic effects",
-      "desc": "This unit involves providing engineering solutions for material selection and thermodynamic effects in electrotechnology projects. It includes analysing material properties, evaluating thermal performance, and recommending appropriate solutions. The unit applies to individuals working in engineering roles, particularly those involved in design and problem-solving. Key skills include using analytical tools, applying thermodynamic principles, and adhering to industry standards. Knowledge of material science, thermodynamics, and engineering design is essential. This unit ensures individuals can provide effective engineering solutions for material and thermal challenges.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0050",
-      "name": "Terminate and connect electrical wiring",
-      "desc": "This unit covers terminating and connecting electrical wiring in compliance with industry standards. It includes selecting appropriate termination methods, using tools, and ensuring secure connections. The unit applies to individuals working in the electrotechnology industry, particularly those involved in wiring installations. Key skills include using termination tools, adhering to WHS protocols, and interpreting technical diagrams. Knowledge of wiring standards, termination techniques, and safety requirements is essential. This unit ensures individuals can effectively terminate and connect electrical wiring.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0047",
-      "name": "Solve problems in composite electrical circuits",
-      "desc": "This unit focuses on solving problems in composite electrical circuits, including identifying faults, interpreting circuit diagrams, and applying corrective measures. It applies to individuals working in the electrotechnology industry, particularly those involved in circuit maintenance and repair. Key skills include using diagnostic tools, analysing circuit performance, and adhering to safety protocols. Knowledge of circuit principles, fault-finding techniques, and industry standards is essential. This unit ensures individuals can effectively diagnose and resolve issues in composite electrical circuits.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0032",
-      "name": "Produce products for carrying out energy sector work activities",
-      "desc": "This unit involves producing products required for energy sector work activities, such as tools, equipment, or documentation. It includes interpreting specifications, selecting materials, and ensuring compliance with industry standards. The unit applies to individuals working in the energy sector, particularly those involved in resource preparation. Key skills include using production tools, adhering to WHS protocols, and applying technical knowledge. Knowledge of energy sector requirements, production techniques, and safety standards is essential. This unit ensures individuals can effectively produce products for energy sector activities.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0034",
-      "name": "Solve problems in AC circuits",
-      "desc": "This unit focuses on solving problems in alternating current (AC) circuits, including identifying faults, interpreting circuit diagrams, and applying corrective measures. It applies to individuals working in the electrotechnology industry, particularly those involved in AC circuit maintenance and repair. Key skills include using diagnostic tools, analysing circuit performance, and adhering to safety protocols. Knowledge of AC circuit principles, fault-finding techniques, and industry standards is essential. This unit ensures individuals can effectively diagnose and resolve issues in AC circuits.",
-      "type": "not included"
-    },
-    {
-      "code": "UEECD0014",
-      "name": "Develop design briefs for electrotechnology projects",
-      "desc": "This unit involves developing design briefs for electrotechnology projects, including defining project scope, identifying requirements, and documenting specifications. It applies to individuals working in design or project management roles within the electrotechnology industry. Key skills include using design tools, adhering to WHS protocols, and applying technical knowledge. Knowledge of design principles, project management, and industry standards is essential. This unit ensures individuals can effectively develop design briefs for electrotechnology projects.",
-      "type": "not included"
     },
     {
       "code": "UEECD0020",
-      "name": "Fix and secure equipment",
-      "desc": "This unit focuses on fixing and securing electrotechnology equipment to ensure safe and reliable operation. It includes installing, maintaining, and repairing equipment in compliance with WHS regulations and industry standards. The unit applies to individuals responsible for the upkeep of electrical systems and devices. Key skills include using tools, diagnosing faults, and applying corrective measures. Knowledge of equipment installation, maintenance procedures, and safety protocols is essential. This unit ensures individuals can effectively fix and secure electrotechnology equipment.",
+      "name": "Fix and secure electrotechnology equipment",
+      "desc": "This unit covers the skills and knowledge required to fix and secure electrotechnology equipment, including mounting and securing components, enclosures, and equipment to various surfaces using appropriate fasteners and techniques.",
       "type": "core"
     },
     {
-      "code": "UEECD0048",
-      "name": "Solve problems in single phase circuits",
-      "desc": "This unit involves solving problems in single-phase electrical circuits, including identifying faults, interpreting circuit diagrams, and applying corrective measures. It applies to individuals working in the electrotechnology industry, particularly those involved in circuit maintenance and repair. Key skills include using diagnostic tools, analysing circuit performance, and adhering to safety protocols. Knowledge of single-phase circuit principles, fault-finding techniques, and industry standards is essential. This unit ensures individuals can effectively diagnose and resolve issues in single-phase circuits.",
-      "type": "not included"
+      "code": "UEECD0042",
+      "name": "Solve problems in ELV single path circuits",
+      "desc": "This unit is about providing solutions to predictable problems in single path circuits operated at extra-low voltage (ELV). It involves working safely, using measurement devices, and applying problem-solving techniques to circuit faults.",
+      "type": "core"
     },
     {
-      "code": "UEECD0031",
-      "name": "Identify and select components accessories materials tools equipment and technologies for energy sector work activities",
-      "desc": "This unit involves the skills and knowledge required to prepare engineering drawings using manual drafting and computer-aided design (CAD) for electrotechnology and utilities applications. It includes planning and producing engineering drawings, completing and reporting them, and using manual drafting methods, CAD equipment, and software based on specifications, layouts, sketches, or verbal instructions. The unit ensures that learners can create detailed and accurate drawings that meet industry standards and requirements, which are essential for designing and maintaining electrotechnology systems.",
-      "type": "not included"
+      "code": "UEECD0051",
+      "name": "Use drawings, diagrams, schedules, standards, codes and specifications",
+      "desc": "This unit involves using drawings, diagrams, cable schedules, industry standards, codes of practice, and specifications in various electrotechnology work functions. It includes interpreting schematic, wiring, and mechanical diagrams.",
+      "type": "core"
     },
     {
-      "code": "UEECD0041",
-      "name": "Install and maintain telecommunication cabling for multi dwelling premises",
-      "desc": "This unit covers the skills and knowledge required to install and maintain telecommunication cabling in multi-dwelling premises, such as apartment buildings or complexes. It includes planning and preparing for cabling work, installing and testing cabling systems, and maintaining or repairing existing systems to ensure they meet performance and safety standards. The unit is critical for ensuring reliable telecommunication services in residential settings and requires adherence to relevant regulations and industry standards.",
-      "type": "not included"
+      "code": "UEECO0010",
+      "name": "Participate in refrigeration and air conditioning work and competency development activities",
+      "desc": "This unit is about participating in refrigeration and air conditioning work functions and competency development activities, which includes applying relevant WHS procedures, communicating with others, and seeking assistance when needed.",
+      "type": "core"
     },
     {
-      "code": "UEECD0009",
-      "name": "Carry out routine work activities in an energy sector environment",
-      "desc": "This unit focuses on performing routine tasks in the energy sector, including following workplace procedures, using tools and equipment safely, and completing work activities efficiently. It covers basic operational skills, such as identifying and addressing common issues, maintaining equipment, and ensuring compliance with work health and safety (WHS) requirements. The unit is designed to equip learners with the foundational skills needed to work effectively in energy sector environments.",
-      "type": "not included"
+      "code": "UEERA0031",
+      "name": "Diagnose and rectify faults in air conditioning and refrigeration control systems",
+      "desc": "This unit involves diagnosing and rectifying faults in refrigeration and air conditioning control systems, interconnecting circuits, and equipment. It requires applying fault-finding procedures, conducting repairs, and replacing faulty components.",
+      "type": "core"
     },
     {
-      "code": "UEECD0018",
-      "name": "Analyse materials for suitability in electrical equipment",
-      "desc": "This unit involves analysing and selecting materials for use in electrical equipment based on their properties, performance, and suitability for specific applications. It includes evaluating material characteristics, such as conductivity, insulation, and durability, and ensuring compliance with industry standards and safety requirements. The unit is essential for ensuring the reliability and safety of electrical equipment and systems.",
-      "type": "not included"
+      "code": "UEERA0035",
+      "name": "Establish the basic operating conditions of air conditioning systems",
+      "desc": "This unit involves the skills and knowledge required to determine the operating conditions of air conditioning systems. It includes measuring air temperature, air flow rates, and relative humidity, and applying calculation methods.",
+      "type": "core"
     },
     {
-      "code": "UEECD0039",
-      "name": "Troubleshoot single and three phase low voltage electrical apparatus and circuits",
-      "desc": "This unit covers the skills and knowledge required to diagnose and resolve faults in single and three-phase low voltage electrical apparatus and circuits. It includes identifying and analysing faults, using testing equipment, and implementing corrective actions to restore functionality. The unit ensures that learners can effectively troubleshoot and maintain electrical systems, minimising downtime and ensuring safety and compliance with industry standards.",
-      "type": "not included"
+      "code": "UEERA0036",
+      "name": "Establish the basic operating conditions of vapour compression systems",
+      "desc": "This unit is about determining the operating conditions of vapour compression systems used for refrigeration or air conditioning. It involves measuring suction and discharge pressures, temperatures, and understanding the principles of the refrigeration cycle.",
+      "type": "core"
     },
     {
-      "code": "UEECD0040",
-      "name": "Solve problems in single and three phase low voltage electrical apparatus and circuits",
-      "desc": "This unit involves the skills and knowledge required to diagnose and resolve issues in single and three-phase low voltage electrical apparatus and circuits. It includes identifying faults, using testing equipment, and implementing corrective actions to restore functionality. The unit ensures compliance with safety standards and workplace procedures, focusing on maintaining the reliability and efficiency of electrical systems. This competency is critical for electricians and technicians working in the energy sector, as it ensures safe and effective troubleshooting of electrical systems.",
-      "type": "not included"
+      "code": "UEERA0044",
+      "name": "Find and rectify faults in single phase motors and associated controls",
+      "desc": "This unit covers the skills required to find and rectify faults in single phase motors and their associated controls within refrigeration and air conditioning systems. It includes fault-finding, repair, and testing procedures.",
+      "type": "core"
     },
     {
-      "code": "UEECD0043",
-      "name": "Solve problems in single and three phase low voltage electrical circuits",
-      "desc": "This unit covers the skills and knowledge needed to troubleshoot and resolve issues in direct current (DC) circuits. It includes analysing circuit parameters, identifying faults, and applying corrective measures to ensure proper operation. The unit emphasises safe work practices and adherence to industry standards, making it essential for professionals working with DC systems, such as in renewable energy or battery-powered applications.",
-      "type": "not included"
+      "code": "UEERA0045",
+      "name": "Find and rectify faults in three phase motors and associated controls",
+      "desc": "This unit involves finding and rectifying faults in three phase motors and associated controls. It includes fault diagnosis, repair, and testing of motors used in refrigeration and air conditioning applications.",
+      "type": "core"
     },
     {
-      "code": "UEEIC0028",
-      "name": "Set up and adjust PID control loops",
-      "desc": "This unit focuses on configuring and tuning proportional-integral-derivative (PID) control loops used in industrial automation and control systems. It includes setting up control parameters, adjusting loop performance, and ensuring optimal system operation. The unit is vital for technicians and engineers working in process control, manufacturing, and automation industries, as it ensures efficient and accurate control of industrial processes.",
-      "type": "not included"
+      "code": "UEERA0050",
+      "name": "Install refrigerant pipe work, flow controls and accessories",
+      "desc": "This unit covers installing refrigerant pipe work, flow controls, and accessories for refrigeration and air conditioning systems. It includes routing, placing, and securing pipe work and connecting components according to specifications.",
+      "type": "core"
     },
     {
-      "code": "UEECD0041A",
-      "name": "Plan an integrated telecommunication system",
-      "desc": "This unit involves planning and designing integrated telecommunication systems for various applications, including multi-dwelling premises. It includes assessing requirements, selecting appropriate technologies, and ensuring compliance with industry standards. The unit is essential for professionals in the telecommunications sector, as it ensures the delivery of reliable and efficient communication services.",
-      "type": "not included"
+      "code": "UEERA0099",
+      "name": "Install, commission, service and maintain air conditioning systems",
+      "desc": "This unit outlines the skills and knowledge required to install, commission, service, and maintain air conditioning systems, including split systems, ducted systems, and multi-head systems.",
+      "type": "core"
     },
     {
-      "code": "UEECD0030",
-      "name": "Prepare quotations for installation or service jobs",
-      "desc": "This unit covers the skills and knowledge required to prepare accurate and detailed quotations for electrical installation or service jobs. It includes assessing job requirements, calculating costs, and presenting quotations to clients. The unit is critical for ensuring transparency and professionalism in business operations within the electrotechnology and energy sectors.",
-      "type": "not included"
+      "code": "UEERA0052",
+      "name": "Install, commission, service and maintain low temperature systems",
+      "desc": "This unit involves installing, commissioning, servicing, and maintaining low temperature refrigeration systems, such as freezer rooms and refrigerated cabinets. It includes fault-finding and maintenance procedures specific to low-temperature applications.",
+      "type": "core"
     },
     {
-      "code": "UEEIC0029",
-      "name": "Evaluate and modify embedded control systems",
-      "desc": "This unit involves evaluating and modifying embedded control systems used in industrial and electrotechnology applications. It includes assessing system performance, identifying areas for improvement, and implementing modifications to enhance functionality and efficiency. The unit ensures compliance with industry standards and safety requirements, making it essential for professionals working with embedded systems in automation, manufacturing, and energy sectors.",
-      "type": "not included"
+      "code": "UEERA0053",
+      "name": "Install, commission, service and maintain medium temperature systems",
+      "desc": "This unit covers the installation, commissioning, service, and maintenance of medium temperature refrigeration systems, including cool rooms and refrigerated cabinets. It includes troubleshooting and repair.",
+      "type": "core"
     },
     {
-      "code": "UEECD0021",
-      "name": "Document and apply safe work practices and procedures for energy sector work",
-      "desc": "This unit focuses on documenting and implementing safe work practices and procedures in the energy sector. It includes identifying hazards, assessing risks, and applying control measures to ensure workplace safety. The unit emphasises adherence to work health and safety (WHS) regulations and industry standards, making it critical for maintaining a safe working environment in energy-related activities.",
-      "type": "not included"
+      "code": "UEERA0059",
+      "name": "Prepare and connect refrigerant tubing and fittings",
+      "desc": "This unit involves preparing and connecting refrigeration and air conditioning piping/tubing and fittings. It includes cutting, bending, and joining copper tubes using techniques like flaring, swaging, and silver brazing.",
+      "type": "core"
     },
     {
-      "code": "UEECD0010",
-      "name": "Compile and produce an energy sector detailed report",
-      "desc": "This unit covers the skills and knowledge required to compile and produce detailed reports for energy sector projects. It includes gathering and analysing data, presenting findings, and ensuring reports meet organisational and regulatory requirements. The unit is essential for professionals who need to communicate technical information effectively and support decision-making processes in the energy sector.",
-      "type": "not included"
+      "code": "UEERA0062",
+      "name": "Recover and charge refrigerants",
+      "desc": "This unit outlines the skills and knowledge required to recover, pressure test, evacuate, and charge refrigerants from refrigeration and air conditioning systems. It includes using appropriate recovery equipment and completing documentation.",
+      "type": "core"
     },
     {
-      "code": "UEEIC0027",
-      "name": "Set up and commission industrial computer systems",
-      "desc": "This unit involves setting up and commissioning industrial computer systems, including configuring hardware and software, testing system functionality, and ensuring compliance with technical specifications. The unit is critical for professionals working in automation and control systems, as it ensures the reliable operation of industrial computer systems in manufacturing and process control environments.",
-      "type": "not included"
+      "code": "UEERA0079",
+      "name": "Safely handle refrigerants and lubricants",
+      "desc": "This unit covers the skills and knowledge needed to safely handle refrigerants and lubricants. It includes applying safety procedures, understanding the properties of refrigerants, and using personal protective equipment.",
+      "type": "core"
     },
     {
-      "code": "UEEEL0002",
-      "name": "Apply currency of safe working practices and compliance verification of electrical installations",
-      "desc": "This unit focuses on applying current safe working practices and verifying compliance of electrical installations with relevant standards and regulations. It includes inspecting installations, identifying non-compliant elements, and implementing corrective actions. The unit is essential for ensuring the safety and reliability of electrical systems in various settings, including residential, commercial, and industrial environments.",
-      "type": "not included"
+      "code": "UEERA0081",
+      "name": "Select refrigerant piping, accessories and associated controls",
+      "desc": "This unit involves selecting the correct refrigerant piping, accessories, and associated controls for specific refrigeration and air conditioning systems based on system requirements and industry standards.",
+      "type": "core"
     },
     {
-      "code": "UEEEL0004",
-      "name": "Carry out basic repairs to electrical components and equipment",
-      "desc": "This unit involves the skills and knowledge required to perform basic repairs on electrical components and equipment. It includes identifying faults, selecting appropriate tools and materials, and carrying out repairs in accordance with workplace procedures and safety standards. The unit ensures that learners can restore functionality to electrical equipment while adhering to work health and safety (WHS) requirements and industry regulations. This competency is essential for maintaining the reliability and safety of electrical systems in various settings.",
-      "type": "not included"
+      "code": "UEERA0092",
+      "name": "Solve problems in low voltage refrigeration and air conditioning circuits",
+      "desc": "This unit is about solving problems in low voltage (LV) refrigeration and air conditioning circuits. It includes diagnosing faults, using testing devices, and applying logical fault-finding procedures.",
+      "type": "core"
+    },
+    {
+      "code": "UEERA0094",
+      "name": "Verify functionality and compliance of refrigeration and air conditioning installations",
+      "desc": "This unit involves verifying that refrigeration and air conditioning installations are functional and compliant with relevant regulations, codes, and standards. It includes conducting tests and inspections.",
+      "type": "core"
+    },
+    {
+      "code": "UEERE0001",
+      "name": "Apply environmentally and sustainable procedures in the energy sector",
+      "desc": "This unit covers applying environmentally sustainable procedures in the energy sector, which includes identifying and implementing practices to minimise environmental impact and reduce waste.",
+      "type": "core"
     },
     {
       "code": "UEERL0001",
-      "name": "Attach cords and plugs to electrical equipment for connection to a single phase 230 volt supply",
-      "desc": "This unit covers the skills and knowledge required to attach flexible cords and plugs to electrical equipment for connection to a single-phase 230-volt alternating current (a.c.) supply. It includes planning the task, attaching cords and plugs without damage, and using test equipment to inspect and safety-test the connections. The unit also involves locating, inspecting, and repairing faults in flexible cords and plugs, ensuring compliance with safety standards and workplace procedures. This unit is critical for ensuring the safe operation of electrical equipment in residential and commercial settings.",
+      "name": "Attach cords and plugs to electrical equipment for connection to a single phase 230 Volt supply",
+      "desc": "This unit outlines the skills to attach cords and plugs to electrical equipment that will be connected to a single phase 230 Volt supply, ensuring it is done safely and correctly.",
       "type": "core"
     },
     {
-      "code": "UEERL0003",
-      "name": "Conduct in service safety testing of electrical cord connected equipment and cord assemblies",
-      "desc": "This unit focuses on conducting in-service safety testing of electrical cord-connected equipment and cord assemblies. It includes inspecting and testing equipment to ensure it meets safety standards, identifying faults, and documenting test results. The unit emphasises adherence to WHS requirements and industry regulations, making it essential for maintaining the safety and reliability of electrical equipment in various environments. This competency is particularly important for preventing electrical hazards and ensuring compliance with safety protocols.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0005",
-      "name": "Develop and connect electrical control circuits",
-      "desc": "This unit involves developing and connecting electrical control circuits, including interpreting circuit diagrams, selecting components, and assembling circuits. It ensures that learners can design and implement control systems that meet technical specifications and safety standards. The unit is critical for professionals working in automation, manufacturing, and energy sectors, as it enables the creation of reliable and efficient control systems for industrial applications.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0013",
-      "name": "Install aerial conductors and associated equipment",
-      "desc": "This unit covers the skills and knowledge required to install aerial conductors and associated equipment, suchs as overhead power lines and communication cables. It includes planning the installation, selecting appropriate materials, and ensuring compliance with safety standards and industry regulations. The unit is essential for professionals working in the electrical supply and telecommunications industries, as it ensures the safe and efficient installation of aerial infrastructure.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0009",
-      "name": "Evaluate performance of low voltage electrical apparatus",
-      "desc": "This unit involves evaluating the performance of low voltage (LV) electrical apparatus, including identifying operational issues, testing equipment, and ensuring compliance with safety standards and workplace procedures. It requires the ability to interpret technical specifications, use testing equipment, and document findings. The unit is essential for ensuring the reliability and safety of LV electrical systems in various settings, such as residential, commercial, and industrial environments. Compliance with Australian Standards and legislation is a key focus of this unit.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0006",
-      "name": "Maintain operation of electrical marine equipment and systems",
-      "desc": "This unit focuses on maintaining the operation of electrical marine equipment and systems, such as generators, motors, and switchgear on commercial vessels. It includes planning maintenance schedules, troubleshooting issues, and ensuring compliance with maritime safety and statutory requirements. The unit is critical for professionals working in the maritime industry, as it ensures the safe and efficient operation of electrical systems on ships. It aligns with the requirements of the Maritime Training Package and the STCW Code.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0011",
-      "name": "Evaluate performance of low voltage electrical machines",
-      "desc": "This unit involves evaluating the performance of low voltage electrical machines, such as motors and generators. It includes testing operational parameters, identifying faults, and ensuring compliance with technical specifications and safety standards. The unit is essential for maintaining the efficiency and reliability of electrical machines in industrial and commercial settings. It requires the use of diagnostic tools and adherence to workplace procedures.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0017",
-      "name": "Locate and rectify faults in low voltage LV electrical equipment using set procedures",
-      "desc": "This unit covers the skills and knowledge required to locate and rectify faults in LV electrical equipment using established procedures. It includes diagnosing issues, repairing or replacing faulty components, and ensuring compliance with safety standards. The unit is critical for maintaining the functionality and safety of electrical systems, particularly in environments where downtime must be minimised. It emphasises adherence to workplace protocols and industry regulations.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0008",
-      "name": "Evaluate performance of computer based equipment",
-      "desc": "This unit involves evaluating the performance of computer-based equipment, including identifying operational issues, testing systems, and ensuring compliance with technical specifications. It requires the ability to interpret system data, use diagnostic tools, and document findings. The unit is essential for maintaining the reliability and efficiency of computer-based systems in various industries, such as automation, manufacturing, and telecommunications.",
-      "type": "not included"
-    },
-    {
-      "code": "UEEEL0010",
-      "name": "Evaluate performance of LV electrical machines",
-      "desc": "This unit involves evaluating the performance of low voltage electrical machines, such as motors and generators. It includes testing operational parameters, identifying faults, and ensuring compliance with technical specifications and safety standards. The unit is essential for maintaining the efficiency and reliability of electrical machines in industrial and commercial settings. It requires the use of diagnostic tools and adherence to workplace procedures, ensuring that all work complies with relevant Australian Standards and legislation.",
-      "type": "not included"
+      "code": "UEERL0002",
+      "name": "Attach cords, cables and plugs to electrical equipment for connection to 1000 V a.c. or 1500 V d.c.",
+      "desc": "This unit is about attaching cords, cables, and plugs to electrical equipment for connection to high voltage systems, requiring knowledge of specific safety protocols and connection methods.",
+      "type": "core"
     },
     {
       "code": "UEERL0004",
-      "name": "Disconnect and reconnect fixed wired electrical appliances",
-      "desc": "This unit covers the skills and knowledge required to safely disconnect and reconnect fixed wired electrical appliances. It includes isolating circuits, testing for safety, and ensuring compliance with workplace procedures and regulatory requirements. The unit is critical for ensuring the safe operation of electrical appliances and preventing hazards. It emphasises adherence to work health and safety (WHS) standards and the correct use of testing equipment to verify safe reconnection.",
+      "name": "Disconnect - reconnect electrical equipment connected to low voltage (LV) installation wiring",
+      "desc": "This unit covers the skills required to safely disconnect and reconnect electrical equipment from low voltage (LV) installation wiring, in accordance with legislative and safety requirements.",
       "type": "core"
     },
     {
       "code": "UEERL0005",
-      "name": "Locate and rectify faults in low voltage LV electrical equipment",
-      "desc": "This unit focuses on locating and rectifying faults in LV electrical equipment using established procedures. It includes diagnosing issues, repairing or replacing faulty components, and ensuring compliance with safety standards. The unit is essential for maintaining the functionality and safety of electrical systems, particularly in environments where downtime must be minimised. It requires the ability to interpret technical documentation and use diagnostic tools effectively.",
+      "name": "Locate and rectify faults in low voltage (LV) electrical equipment using set procedures",
+      "desc": "This unit involves locating and rectifying faults in low voltage (LV) electrical equipment by following set procedures. It includes using testing devices and applying a systematic approach to fault finding.",
       "type": "core"
     }
   ],
