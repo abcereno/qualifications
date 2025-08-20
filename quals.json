@@ -4597,35 +4597,35 @@
       "name": "Deliver a service to customers",
       "desc": "This unit describes the skills and knowledge required to deliver aspects of customer service at an introductory level. It includes creating a relationship with customers, identifying their needs, delivering services or products, and processing customer feedback.",
       "type": "elective",
-      "group": "Group A"
+      "group": "A"
     },
     {
       "code": "ICTICT214",
       "name": "Operate application software packages",
       "desc": "This unit outlines the skills and knowledge required to identify, select, and operate commercial software packages, including a word-processing and a spreadsheet application. It applies to individuals who use different software applications in an office environment to produce documents.",
       "type": "elective",
-      "group": "Group A"
+      "group": "A"
     },
     {
       "code": "UEECO0017",
       "name": "Source and purchase material/parts for installation or service jobs",
       "desc": "This unit involves the skills and knowledge required to source and purchase or order materials and parts for installation or service jobs. It includes determining job specifications, using manufacturer catalogues, making purchasing inquiries, and completing relevant purchasing documentation.",
       "type": "elective",
-      "group": "Group A"
+      "group": "A"
     },
     {
       "code": "UEECO0002",
       "name": "Maintain documentation",
       "desc": "This unit covers the skills and knowledge required to maintain and prepare documentation for work activities, purchases, and expenses. It includes planning and maintaining documentation typically required in an electrotechnology workplace information system.",
       "type": "elective",
-      "group": "Group A"
+      "group": "A"
     },
     {
       "code": "UEEIC0013",
       "name": "Perform rescue from a live LV panel",
       "desc": "This unit covers the skills and knowledge to perform rescue from a live Low Voltage (LV) panel. It includes assessing the situation, making the area safe, removing the victim from the live panel, and providing first aid until emergency services arrive.",
       "type": "elective",
-      "group": "Group B"
+      "group": "B"
     }
   ],
 "AUR31120": [
