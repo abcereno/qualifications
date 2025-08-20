@@ -4443,21 +4443,15 @@
   ],
   "UEE32225": [
     {
-      "code": "UEECD0007",
-      "name": "Apply work health and safety regulations, codes and practices in the workplace",
-      "desc": "This unit outlines the skills and knowledge required to apply work health and safety (WHS) regulations, codes and practices when performing work functions in the electrotechnology industry. It includes identifying hazards, assessing risks, and implementing control measures in line with industry and legislative requirements.",
-      "type": "core"
-    },
-    {
       "code": "UEECD0016",
       "name": "Document and apply measures to control WHS risks associated with electrotechnology work",
-      "desc": "This unit involves identifying, documenting, and applying WHS/OHS hazard and risk control measures. It includes identifying workplace hazards, assigning risk levels, developing control measures to eliminate or mitigate risks, and maintaining documentation in accordance with compliance procedures.",
+      "desc": "This unit involves identifying, documenting, and applying work health and safety (WHS) and occupational health and safety (OHS) hazard and risk control measures. It includes identifying workplace hazards, assessing risk levels, and implementing control measures to eliminate or mitigate risks in accordance with compliance procedures.",
       "type": "core"
     },
     {
       "code": "UEECD0019",
       "name": "Fabricate, assemble and dismantle utilities industry components",
-      "desc": "This unit involves the skills and knowledge required to fabricate, assemble, and dismantle utilities industry components using fitting and metal fabrication techniques. It includes interpreting drawings, using hand and power tools safely, and joining components using various methods.",
+      "desc": "This unit outlines the skills and knowledge required to fabricate, assemble, and dismantle utilities industry components using fitting and metal fabrication techniques. It involves interpreting drawings, using hand and power tools safely, and joining components using various methods.",
       "type": "core"
     },
     {
@@ -4469,7 +4463,7 @@
     {
       "code": "UEECD0042",
       "name": "Solve problems in ELV single path circuits",
-      "desc": "This unit is about providing solutions to predictable problems in single path circuits operated at extra-low voltage (ELV). It involves working safely, using measurement devices, and applying problem-solving techniques to circuit faults.",
+      "desc": "This unit describes the skills and knowledge required to provide solutions to predictable problems in single path circuits operated at extra-low voltage (ELV). It includes working safely, using measurement devices, and applying problem-solving techniques to circuit faults.",
       "type": "core"
     },
     {
@@ -4518,12 +4512,6 @@
       "code": "UEERA0050",
       "name": "Install refrigerant pipe work, flow controls and accessories",
       "desc": "This unit covers installing refrigerant pipe work, flow controls, and accessories for refrigeration and air conditioning systems. It includes routing, placing, and securing pipe work and connecting components according to specifications.",
-      "type": "core"
-    },
-    {
-      "code": "UEERA0099",
-      "name": "Install, commission, service and maintain air conditioning systems",
-      "desc": "This unit outlines the skills and knowledge required to install, commission, service, and maintain air conditioning systems, including split systems, ducted systems, and multi-head systems.",
       "type": "core"
     },
     {
@@ -4603,6 +4591,41 @@
       "name": "Locate and rectify faults in low voltage (LV) electrical equipment using set procedures",
       "desc": "This unit involves locating and rectifying faults in low voltage (LV) electrical equipment by following set procedures. It includes using testing devices and applying a systematic approach to fault finding.",
       "type": "core"
+    },
+    {
+      "code": "BSBOPS203",
+      "name": "Deliver a service to customers",
+      "desc": "This unit describes the skills and knowledge required to deliver aspects of customer service at an introductory level. It includes creating a relationship with customers, identifying their needs, delivering services or products, and processing customer feedback.",
+      "type": "elective",
+      "group": "Group A"
+    },
+    {
+      "code": "ICTICT214",
+      "name": "Operate application software packages",
+      "desc": "This unit outlines the skills and knowledge required to identify, select, and operate commercial software packages, including a word-processing and a spreadsheet application. It applies to individuals who use different software applications in an office environment to produce documents.",
+      "type": "elective",
+      "group": "Group A"
+    },
+    {
+      "code": "UEECO0017",
+      "name": "Source and purchase material/parts for installation or service jobs",
+      "desc": "This unit involves the skills and knowledge required to source and purchase or order materials and parts for installation or service jobs. It includes determining job specifications, using manufacturer catalogues, making purchasing inquiries, and completing relevant purchasing documentation.",
+      "type": "elective",
+      "group": "Group A"
+    },
+    {
+      "code": "UEECO0002",
+      "name": "Maintain documentation",
+      "desc": "This unit covers the skills and knowledge required to maintain and prepare documentation for work activities, purchases, and expenses. It includes planning and maintaining documentation typically required in an electrotechnology workplace information system.",
+      "type": "elective",
+      "group": "Group A"
+    },
+    {
+      "code": "UEEIC0013",
+      "name": "Perform rescue from a live LV panel",
+      "desc": "This unit covers the skills and knowledge to perform rescue from a live Low Voltage (LV) panel. It includes assessing the situation, making the area safe, removing the victim from the live panel, and providing first aid until emergency services arrive.",
+      "type": "elective",
+      "group": "Group B"
     }
   ],
 "AUR31120": [
