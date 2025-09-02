@@ -294,6 +294,1147 @@
       "group": "A"
     }
   ],
+  "AUR30320": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge required to follow environmental and sustainability best practices in an automotive workplace. It includes identifying environmental hazards, handling materials and waste according to regulations, and implementing sustainable work practices.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit specifies the skills and knowledge required to follow safe working practices in an automotive environment. It involves identifying and controlling workplace hazards, using personal protective equipment (PPE), and responding to emergencies according to workplace health and safety (WHS) procedures.",
+      "type": "core"
+    },
+    {
+      "code": "AURETK002",
+      "name": "Use and maintain electrical test equipment in an automotive workplace",
+      "desc": "This unit involves the skills and knowledge required to select, use, and maintain various electrical test equipment in an automotive context. It includes operating multimeters, oscilloscopes, and scan tools to test and measure electrical system parameters.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR006",
+      "name": "Solder electrical wiring and circuits",
+      "desc": "This unit addresses the skills and knowledge needed to perform soldering on electrical wiring and electronic circuits in an automotive setting. It covers preparing components, applying appropriate soldering techniques, and inspecting soldered joints for quality and reliability.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR007",
+      "name": "Apply knowledge of automotive electrical circuits and wiring systems",
+      "desc": "This unit describes the application of fundamental knowledge of automotive electrical circuits and wiring systems. It involves interpreting wiring diagrams, understanding the function of electrical components, and applying principles of electricity to automotive applications.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR009",
+      "name": "Install vehicle lighting and wiring systems",
+      "desc": "This unit covers the skills and knowledge required to install vehicle lighting and associated wiring systems. It includes selecting appropriate components, routing and securing wiring, making connections, and testing the final installation for correct operation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR010",
+      "name": "Repair wiring harnesses and looms",
+      "desc": "This unit specifies the skills and knowledge required to repair automotive wiring harnesses and looms. It involves identifying faults, performing repairs on damaged wires and connectors, and ensuring the integrity of the repaired harness.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR027",
+      "name": "Install ancillary electronic systems and components",
+      "desc": "This unit involves the installation of ancillary electronic systems and components in vehicles. It covers systems such as audio, visual, navigation, and security devices, including system integration and testing.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit covers the competency to test and repair basic electrical circuits in vehicles and machinery. It involves using testing procedures to locate faults and carrying out repairs to restore circuit functionality.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR123",
+      "name": "Diagnose and repair spark ignition engine management systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the spark ignition engine management systems of vehicles. It includes using diagnostic equipment to identify issues with sensors, actuators, and control modules.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR124",
+      "name": "Diagnose and repair compression ignition engine management systems",
+      "desc": "This unit covers the diagnosis and repair of faults in compression ignition (diesel) engine management systems. It involves systematic testing of system components, interpreting diagnostic data, and performing necessary repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit involves the skills to test, charge, and replace automotive batteries, as well as to safely jump-start vehicles. It covers battery testing methods, charging procedures, and safe handling practices.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR128",
+      "name": "Diagnose and repair instruments and warning systems",
+      "desc": "This unit specifies the competency to diagnose and repair faults in vehicle instrument clusters and warning systems. It includes testing gauges, indicator lights, and driver information displays.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR129",
+      "name": "Diagnose and repair charging systems",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair vehicle charging systems. It involves testing alternators, regulators, and related components to identify and rectify faults.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR130",
+      "name": "Diagnose and repair starting systems",
+      "desc": "This unit describes the skills needed to diagnose and repair vehicle starting systems. It includes testing starter motors, solenoids, and control circuits to find and fix starting problems.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR131",
+      "name": "Diagnose and repair ignition systems",
+      "desc": "This unit involves diagnosing and repairing faults in automotive ignition systems. It covers both distributor-based and electronic ignition systems, including testing coils, modules, and spark delivery components.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR132",
+      "name": "Diagnose and repair automotive electrical systems",
+      "desc": "This unit addresses the skills required to diagnose and repair faults in general automotive electrical systems, including body electrical systems and accessories. It involves a comprehensive approach to electrical fault-finding.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR135",
+      "name": "Apply knowledge of petrol and diesel engine operation",
+      "desc": "This unit covers the application of fundamental knowledge of petrol and diesel engine operation in an automotive service or repair context. It includes understanding the principles of internal combustion engines and their main components.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR143",
+      "name": "Diagnose and repair electronic body management systems",
+      "desc": "This unit describes the skills and knowledge needed to diagnose and repair electronic body management systems, such as central locking, electric windows, and climate control. It involves using scan tools and interpreting network data.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit covers the competency to develop and carry out diagnostic test strategies on vehicles, vessels or machinery. It involves a systematic approach to fault finding, including analysing symptoms, developing a test plan, and concluding with a diagnosis.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTE104",
+      "name": "Inspect and service engines",
+      "desc": "This unit involves the skills and knowledge required to inspect and service engines in an automotive workplace. It includes performing scheduled services, checking fluid levels, replacing filters, and identifying potential issues.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA103",
+      "name": "Communicate effectively in an automotive workplace",
+      "desc": "This unit covers the skills needed to communicate effectively with colleagues and customers in an automotive workplace. It includes gathering information, providing explanations, and maintaining positive workplace relationships.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURATA004",
+      "name": "Provide technical guidance",
+      "desc": "This unit describes the skills required to provide technical guidance and support to colleagues in an automotive workplace. It involves mentoring, explaining technical concepts, and assisting with complex diagnostic tasks.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURATA005",
+      "name": "Estimate and quote automotive mechanical and electrical repairs",
+      "desc": "This unit covers the competency to estimate and quote the cost of automotive mechanical and electrical repairs. It includes identifying required parts and labour, calculating costs, and preparing customer quotes.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETB101",
+      "name": "Diagnose and repair electric braking systems",
+      "desc": "This unit involves diagnosing and repairing electric and electronic braking systems, including anti-lock braking (ABS), traction control (TCS), and stability control (ESC) systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETD101",
+      "name": "Diagnose and repair electronically controlled steering systems",
+      "desc": "This unit covers the diagnosis and repair of electronically controlled steering systems, including electric power steering (EPS) and variable-assist systems. It involves testing sensors, actuators, and control modules.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH011",
+      "name": "Depower and reinitialise hybrid electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to safely depower and reinitialise the high voltage systems of hybrid electric vehicles (HEVs) to carry out service and repair work.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH101",
+      "name": "Depower and reinitialise battery electric vehicles",
+      "desc": "This unit specifies the skills and knowledge required to safely depower and reinitialise the high voltage systems of battery electric vehicles (BEVs) to enable servicing and repairs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH102",
+      "name": "Inspect and maintain battery electric vehicles",
+      "desc": "This unit covers the competency to inspect and maintain battery electric vehicles (BEVs) and their high voltage systems according to manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR122",
+      "name": "Diagnose and repair vehicle dynamic control systems",
+      "desc": "This unit involves the diagnosis and repair of integrated vehicle dynamic control systems, encompassing braking, steering, and suspension control systems, to restore full functionality.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR149",
+      "name": "Apply knowledge of ADAS systems to vehicle pre-repair scans",
+      "desc": "This unit describes the skills and knowledge to apply an understanding of Advanced Driver Assistance Systems (ADAS) when carrying out pre-repair vehicle scans to identify system status and repair requirements.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTB103",
+      "name": "Diagnose and repair light vehicle hydraulic braking systems",
+      "desc": "This unit covers the skills and knowledge to diagnose and repair faults in the hydraulic braking systems of light vehicles. It includes servicing master cylinders, brake lines, callipers, and wheel cylinders.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTE102",
+      "name": "Diagnose and repair light vehicle engines",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in the engines of light vehicles. It involves comprehensive engine testing, fault identification, and performing major and minor repairs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTA121",
+      "name": "Diagnose complex system faults",
+      "desc": "This unit covers the skills and knowledge required to diagnose complex faults in vehicle systems that have intermittent or multiple interacting issues, requiring advanced diagnostic strategies.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, and maintain a range of tools and equipment in an automotive workplace. It includes hand tools, power tools, and workshop equipment.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "BSBSTR401",
+      "name": "Promote innovation in team environments",
+      "desc": "This unit specifies the skills and knowledge required to be a proactive and innovative contributor to a team. It involves identifying opportunities for improvement, developing creative solutions, and promoting innovation within the team.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR32420": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge to follow environmental and sustainability best practices, including handling and disposing of hazardous materials and implementing sustainable work processes in an automotive setting.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA108",
+      "name": "Interpret and apply automotive repair instructions",
+      "desc": "This unit describes the skills needed to locate, interpret, and apply technical information and repair instructions found in workshop manuals, technical bulletins, and other manufacturer specifications.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit specifies the competency to identify and follow workplace health and safety (WHS) procedures in an automotive environment, including using personal protective equipment (PPE) and responding to emergencies.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP002",
+      "name": "Mask vehicle panels and components",
+      "desc": "This unit covers the skills required to mask vehicle panels and components in preparation for refinishing operations, ensuring clean paint lines and protecting areas from overspray.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP006",
+      "name": "Apply refinishing primers to vehicle surfaces",
+      "desc": "This unit involves the skills and knowledge to select and apply various refinishing primers to vehicle surfaces to provide adhesion, corrosion protection, and a suitable foundation for topcoats.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP019",
+      "name": "Prepare and paint plastic and composite vehicle surfaces",
+      "desc": "This unit describes the competency to prepare and paint plastic and composite surfaces, which require specific preparation techniques and materials for proper adhesion and a durable finish.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP020",
+      "name": "De-nib, buff and polish vehicle painted surfaces",
+      "desc": "This unit covers the final stage of the refinishing process, including removing minor imperfections (de-nibbing) and using buffing and polishing techniques to achieve a high-gloss finish.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP101",
+      "name": "Remove paint from vehicle painted surfaces",
+      "desc": "This unit involves the skills and knowledge required to safely and effectively remove paint from vehicle surfaces using various methods, such as sanding or chemical stripping.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP103",
+      "name": "Prepare vehicle spray painting equipment for use",
+      "desc": "This unit covers the setup, adjustment, and cleaning of spray painting equipment, including spray guns, pressure pots, and air supply systems, to ensure correct and efficient operation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP104",
+      "name": "Apply basic colour matching techniques using vehicle paint codes",
+      "desc": "This unit describes the skills to identify vehicle paint codes and use them to mix and match refinishing paint, ensuring a close match to the original vehicle color.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP110",
+      "name": "Prepare and operate vehicle paint drying equipment",
+      "desc": "This unit involves the skills and knowledge to prepare and operate paint drying and curing equipment, such as infrared lamps and spray booths, to accelerate the paint drying process.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP113",
+      "name": "Prepare vehicle substrates for refinishing",
+      "desc": "This unit covers the critical process of preparing vehicle substrates, including bare metal, existing paintwork, and body fillers, to ensure the refinishing materials will adhere properly.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP114",
+      "name": "Colour match multi-layer and clear over base two-pack paints on vehicles and components",
+      "desc": "This unit describes advanced skills in color matching complex multi-layer and pearl paint systems, involving techniques like let-down panels and spray-out cards to achieve an invisible repair.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP115",
+      "name": "Match direct gloss solid paint colour on vehicles or components",
+      "desc": "This unit specifies the competency to accurately match direct gloss (single stage) solid paint colors on vehicles, involving tinting and testing to achieve a precise color match.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP117",
+      "name": "Rectify and touch up vehicle paint faults using clear over base two-pack systems",
+      "desc": "This unit covers the skills to identify and rectify minor paint faults, such as runs or sags, in clear over base two-pack paint systems using specialized touch-up techniques.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP123",
+      "name": "Apply clear over base two-pack refinishing materials to vehicle body components",
+      "desc": "This unit describes the skills and knowledge to apply clear over base two-pack refinishing materials, including basecoats and clearcoats, to achieve a high-quality, durable finish.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP124",
+      "name": "Apply clear over base multi-layer and pearl refinishing materials to vehicle body components",
+      "desc": "This unit involves the advanced application of multi-layer and pearl refinishing materials, which requires precise technique to ensure correct color, pearl effect, and overall appearance.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP125",
+      "name": "Apply water-based refinishing materials to vehicle bodies and substrates",
+      "desc": "This unit covers the specific techniques and environmental considerations required to apply modern water-based refinishing materials to vehicle surfaces.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA002",
+      "name": "Read and respond to automotive workplace information",
+      "desc": "This unit covers basic literacy skills for an automotive workplace, including reading job cards, safety data sheets, and memos, and responding appropriately.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAFA104",
+      "name": "Resolve routine problems in an automotive workplace",
+      "desc": "This unit describes the skills required to identify and resolve routine problems that occur in an automotive workplace, using established procedures and seeking assistance when necessary.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAMA001",
+      "name": "Work effectively with others in an automotive workplace",
+      "desc": "This unit covers the competency to work cooperatively as part of a team in an automotive workplace, including communicating effectively and supporting team members.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH011",
+      "name": "Depower and reinitialise hybrid electric vehicles",
+      "desc": "This unit describes the critical safety procedures required to depower and reinitialise the high voltage systems of hybrid electric vehicles (HEVs) to allow for safe service and repair.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH101",
+      "name": "Depower and reinitialise battery electric vehicles",
+      "desc": "This unit specifies the skills and knowledge to safely depower and reinitialise the high voltage systems of battery electric vehicles (BEVs) to enable servicing and repairs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit involves the skills to test, charge, and replace conventional 12-volt automotive batteries, as well as to safely jump-start vehicles.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTA001",
+      "name": "Prepare vehicles for customer use",
+      "desc": "This unit covers the final preparation and detailing of a vehicle before returning it to the customer, including cleaning, inspecting repairs, and ensuring all work is complete.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTA003",
+      "name": "Inspect vehicle paint, trim and accessories and recommend repair procedures",
+      "desc": "This unit describes the skills to inspect vehicle paintwork, interior trim, and accessories for damage and determine the appropriate repair procedures.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTN005",
+      "name": "Remove and replace adhesive attached components on vehicles",
+      "desc": "This unit covers the competency to remove and replace components attached with adhesives, such as mouldings, badges, and body panels, without causing damage.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTN017",
+      "name": "Repair vehicle thermoplastic body panels and components",
+      "desc": "This unit involves the skills and knowledge required to repair thermoplastic components, like bumpers, using plastic welding and other specialized repair techniques.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTN132",
+      "name": "Inspect vehicle damage and determine repair procedures",
+      "desc": "This unit describes the skills needed to thoroughly inspect a damaged vehicle and determine the most effective and efficient repair procedures and sequence.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTN135",
+      "name": "Apply original equipment manufacturer repair procedures during vehicle repairs",
+      "desc": "This unit covers the critical competency to access and apply original equipment manufacturer (OEM) repair procedures to ensure repairs meet factory standards for safety and quality.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP026",
+      "name": "Apply basic airbrush techniques to vehicle body panels",
+      "desc": "This unit involves the skills to use an airbrush to apply custom paint effects, graphics, and detailed touch-ups to vehicle body panels.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP107",
+      "name": "Touch up minor vehicle paintwork damage",
+      "desc": "This unit describes the skills to perform minor paintwork touch-ups for small scratches, chips, and blemishes without requiring a full panel respray.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP109",
+      "name": "Apply vehicle body film wrapping",
+      "desc": "This unit covers the specialized skills required to prepare a vehicle's surface and apply adhesive vinyl film (vehicle wrap) for cosmetic or protective purposes.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP111",
+      "name": "Apply solid acrylic two-pack materials to vehicle components",
+      "desc": "This unit involves the skills and knowledge to mix and apply solid acrylic two-pack (direct gloss) refinishing materials to vehicle components.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP112",
+      "name": "Apply air dry and polyurethane refinishing materials",
+      "desc": "This unit describes the competency to apply air-dry enamels and polyurethane refinishing materials, often used on commercial vehicles and equipment.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP116",
+      "name": "Rectify and touch up vehicle direct gloss paint faults using two-pack systems",
+      "desc": "This unit covers the skills to identify and rectify minor paint faults in direct gloss two-pack paint systems using specialized touch-up and polishing techniques.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP118",
+      "name": "Rectify vehicle multi-layer and pearl paint faults using two-pack systems",
+      "desc": "This unit involves the advanced skills required to rectify paint faults in complex multi-layer and pearl finishes, which is critical for maintaining the original appearance.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURVTP128",
+      "name": "Carry out custom painting techniques to vehicle body panels",
+      "desc": "This unit describes the creative and technical skills to apply custom painting techniques, such as fades, graphics, and special effects, to vehicle body panels.",
+      "type": "elective",
+      "group": "General"
+
+    },
+    {
+      "code": "TAEDEL301",
+      "name": "Provide work skill instruction",
+      "desc": "This unit covers the skills and knowledge required to provide on-the-job instruction and demonstrate work skills to others in a workplace environment.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR40620": [
+    {
+      "code": "AURTTA4021",
+      "name": "Carry out diagnosis of complex system faults",
+      "desc": "This unit covers the skills and knowledge required to diagnose complex faults in vehicle systems that have intermittent or multiple interacting issues, requiring the application of advanced diagnostic strategies and logical problem-solving.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA5006",
+      "name": "Prepare technical reports",
+      "desc": "This unit involves the skills required to prepare and write comprehensive technical reports in an automotive context, documenting diagnostic findings, repair procedures, and technical information clearly and professionally.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAFA5007",
+      "name": "Develop and document specifications and procedures",
+      "desc": "This unit describes the competency to develop, document, and implement technical specifications and standard operating procedures for automotive tasks, ensuring consistency and quality.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAKA3002",
+      "name": "Adapt work processes to new technologies",
+      "desc": "This unit covers the skills to adapt personal work processes to accommodate the introduction of new technologies, tools, and equipment in the automotive workplace.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURANN4001",
+      "name": "Prepare a vehicle repair quotation",
+      "desc": "This unit involves preparing detailed vehicle repair quotations by identifying required tasks, sourcing parts, estimating labor times, and calculating final costs for the customer.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAQA3002",
+      "name": "Inspect technical quality of work",
+      "desc": "This unit specifies the competency to inspect the technical quality of automotive work performed by others against workplace and industry standards to ensure it meets requirements.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAQA3003",
+      "name": "Maintain quality systems",
+      "desc": "This unit covers the skills to contribute to the maintenance and improvement of an automotive workplace's quality system, including following procedures and identifying areas for improvement.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURATA3004",
+      "name": "Provide technical guidance",
+      "desc": "This unit describes the skills and knowledge required to provide technical guidance, support, and mentoring to colleagues in an automotive workplace.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURATA3005",
+      "name": "Estimate complex jobs",
+      "desc": "This unit involves estimating the costs for complex automotive jobs that may involve multiple systems, significant damage, or require specialized parts and procedures.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETB3001",
+      "name": "Repair electric braking systems",
+      "desc": "This unit covers the skills needed to diagnose, service, and repair electric and electronically controlled braking systems, including anti-lock braking (ABS) and stability control systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH3001",
+      "name": "Depower battery electric vehicles",
+      "desc": "This unit describes the critical safety procedures required to depower the high voltage systems of battery electric vehicles (BEVs) to allow for safe service and repair.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH3002",
+      "name": "Service and maintain battery electric vehicles",
+      "desc": "This unit involves the skills and knowledge to carry out scheduled servicing and maintenance on battery electric vehicles (BEVs) according to manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4003",
+      "name": "Test and repair high voltage battery systems in battery electric vehicles",
+      "desc": "This advanced unit covers the skills to test, diagnose faults in, and repair high voltage (HV) battery systems in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4004",
+      "name": "Diagnose and repair traction motor speed control devices in battery electric vehicles",
+      "desc": "This unit describes the skills to diagnose and repair the traction motor speed control devices, such as inverters and controllers, in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4005",
+      "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
+      "desc": "This unit involves the advanced diagnosis and repair of high voltage (HV) traction motors that propel battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4006",
+      "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles",
+      "desc": "This unit covers the diagnosis and repair of various high voltage auxiliary motors and components in battery electric vehicles (BEVs), such as those for power steering and air conditioning.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4007",
+      "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles",
+      "desc": "This unit describes the competency to diagnose and repair the instrumentation and critical safety interlock systems within battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4008",
+      "name": "Diagnose and repair high voltage cabin heating and cooling systems in battery electric vehicles",
+      "desc": "This unit involves diagnosing and repairing high voltage (HV) cabin heating and cooling systems, including electric compressors and PTC heaters, in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4009",
+      "name": "Diagnose and repair DC to DC converters in battery electric vehicles",
+      "desc": "This unit covers the skills to diagnose and repair the DC to DC converters that step down high voltage to power the 12-volt systems in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4010",
+      "name": "Test high voltage batteries in hybrid electric vehicles",
+      "desc": "This unit specifies the procedures to test the state of health and performance of high voltage (HV) batteries in hybrid electric vehicles (HEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4011",
+      "name": "Deactivate and reinitialise power supply in hybrid electric vehicles",
+      "desc": "This unit describes the critical safety procedures required to deactivate (depower) and reinitialise the high voltage power supply in hybrid electric vehicles (HEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4012",
+      "name": "Service and maintain electrical components in hybrid electric vehicles",
+      "desc": "This unit covers the servicing and maintenance of various electrical and high voltage components specific to hybrid electric vehicles (HEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH4014",
+      "name": "Diagnose complex faults in battery electric and hybrid electric vehicle systems",
+      "desc": "This advanced unit involves diagnosing complex and interconnected faults within the high voltage and control systems of battery electric vehicles (BEVs) and hybrid electric vehicles (HEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR2035",
+      "name": "Demonstrate knowledge of petrol and diesel engine operation",
+      "desc": "This unit covers fundamental knowledge of the operating principles, construction, and key components of both petrol and diesel internal combustion engines.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR3025",
+      "name": "Test, charge and replace batteries",
+      "desc": "This unit involves the skills to test the condition of automotive batteries, perform charging procedures, and safely replace them.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR4037",
+      "name": "Diagnose complex electrical and electronic faults in light vehicle safety systems",
+      "desc": "This unit covers the advanced diagnosis of complex faults in light vehicle safety systems, including Supplemental Restraint Systems (SRS), Anti-lock Braking Systems (ABS), and Electronic Stability Control (ESC).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTA3017",
+      "name": "Carry out vehicle safety and roadworthy inspections",
+      "desc": "This unit describes the skills and knowledge required to conduct comprehensive vehicle safety and roadworthy inspections according to regulatory requirements.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTA4026",
+      "name": "Diagnose complex faults in vehicle electric-over-hydraulic systems",
+      "desc": "This unit involves diagnosing complex faults in integrated electric-over-hydraulic systems, which are common in heavy vehicles and machinery for functions like braking and steering.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR40116": [
+    {
+      "code": "AURACA003",
+      "name": "Build customer relations in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge required to build and maintain positive customer relationships in an automotive environment. It includes communicating effectively, handling customer inquiries, and fostering customer loyalty.",
+      "type": "core"
+    },
+    {
+      "code": "AURAEA004",
+      "name": "Manage environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit involves the skills to manage and implement environmental and sustainability best practices. It covers developing workplace policies, managing hazardous materials, and promoting resource efficiency.",
+      "type": "core"
+    },
+    {
+      "code": "AURAMA004",
+      "name": "Maintain business image in an automotive workplace",
+      "desc": "This unit describes the competency to maintain and enhance the business image of an automotive workplace. It includes managing workplace presentation, staff conduct, and customer service standards.",
+      "type": "core"
+    },
+    {
+      "code": "AURAMA005",
+      "name": "Manage complex customer issues in an automotive workplace",
+      "desc": "This unit covers the advanced skills needed to manage complex or escalated customer issues. It involves negotiation, conflict resolution, and implementing solutions to maintain customer satisfaction.",
+      "type": "core"
+    },
+    {
+      "code": "BSBSMB407",
+      "name": "Manage a small team",
+      "desc": "This unit specifies the skills and knowledge required to lead and manage a small team. It includes planning and organizing work, monitoring performance, providing feedback, and leading the team effectively.",
+      "type": "core"
+    },
+    {
+      "code": "BSBWHS401",
+      "name": "Implement and monitor WHS policies, procedures and programs to meet legislative requirements",
+      "desc": "This unit involves implementing and monitoring an organisation's work health and safety (WHS) policies, procedures, and programs to ensure compliance with legislative requirements and a safe workplace.",
+      "type": "core"
+    },
+    {
+      "code": "AURAAA002",
+      "name": "Determine retail rates for automotive products and services",
+      "desc": "This unit covers the skills to determine appropriate retail rates for automotive products and services. It includes calculating costs, applying mark-ups, and considering market factors.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAKA002",
+      "name": "Adapt work processes to new technologies in an automotive workplace",
+      "desc": "This unit describes the skills needed to adapt personal and team work processes to accommodate new technologies, tools, and equipment introduced into the automotive workplace.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURALA001",
+      "name": "Comply with legal aspects of a service and repair contract in an automotive workplace",
+      "desc": "This unit involves the competency to comply with the legal aspects of service and repair contracts, including understanding consumer law, warranties, and contractual obligations.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAMA003",
+      "name": "Conduct information sessions in an automotive workplace",
+      "desc": "This unit covers the skills required to plan, conduct, and review information sessions or toolbox talks for teams in an automotive workplace.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURAQA003",
+      "name": "Maintain quality processes in an automotive workplace",
+      "desc": "This unit describes the skills to maintain and improve quality control processes in an automotive workplace, ensuring that work consistently meets industry standards.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURATA005",
+      "name": "Estimate and quote automotive mechanical and electrical repairs",
+      "desc": "This unit involves the competency to estimate and prepare customer quotes for automotive mechanical and electrical repairs, including calculating parts and labor costs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "BSBITS401",
+      "name": "Maintain business technology",
+      "desc": "This unit covers the skills and knowledge required to maintain and troubleshoot common business technologies, including hardware and software, within a workplace.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "BSBLDR402",
+      "name": "Lead effective workplace relationships",
+      "desc": "This unit describes the skills needed to lead teams and individuals effectively by developing trust, communicating clearly, and fostering a positive and collaborative work environment.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "BSBSMB406",
+      "name": "Manage small business finances",
+      "desc": "This unit covers the skills required to manage the day-to-day finances of a small business, including monitoring financial performance, managing cash flow, and maintaining financial records.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "BSBWOR404",
+      "name": "Develop work priorities",
+      "desc": "This unit involves the skills and knowledge to manage personal work priorities and professional development. It includes planning and organizing own work schedule and participating in career planning.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "FNSASIC302",
+      "name": "Develop, present and negotiate client solutions",
+      "desc": "This unit describes the skills required to develop, present, and negotiate financial product and service solutions that meet client needs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "TAEDEL404",
+      "name": "Mentor in the workplace",
+      "desc": "This unit covers the skills and knowledge required to establish and develop a mentoring relationship with an individual in the workplace to support their professional growth.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR40216": [
+    {
+      "code": "AURTTA021",
+      "name": "Diagnose complex system faults",
+      "desc": "This unit covers the skills and knowledge required to diagnose complex faults in vehicle systems that have intermittent or multiple interacting issues, requiring the application of advanced diagnostic strategies and logical problem-solving.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR037",
+      "name": "Diagnose complex faults in light vehicle safety systems",
+      "desc": "This unit involves the advanced diagnosis of complex faults in light vehicle safety systems, including Supplemental Restraint Systems (SRS), Anti-lock Braking Systems (ABS), and Electronic Stability Control (ESC).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETU006",
+      "name": "Diagnose complex faults in air conditioning and HVAC systems",
+      "desc": "This unit describes the skills to perform complex diagnostic procedures on automotive air conditioning and heating, ventilation, and air conditioning (HVAC) systems, including their electronic controls.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTB106",
+      "name": "Diagnose complex faults in heavy commercial vehicle braking systems",
+      "desc": "This unit covers the advanced diagnosis of complex faults in heavy commercial vehicle braking systems, including air brake circuits and electronic brake control systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTD106",
+      "name": "Diagnose complex faults in heavy commercial vehicle steering and suspension systems",
+      "desc": "This unit involves diagnosing complex faults in the steering and suspension systems of heavy commercial vehicles, including electronically controlled suspension and advanced steering geometries.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTE103",
+      "name": "Diagnose complex faults in heavy vehicle diesel engines",
+      "desc": "This unit specifies the skills required to diagnose complex faults in heavy vehicle diesel engines and their associated management systems, using advanced diagnostic tools and procedures.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTX106",
+      "name": "Diagnose complex faults in heavy commercial vehicle transmission and driveline systems",
+      "desc": "This unit covers the diagnosis of complex faults in heavy commercial vehicle transmissions, including automated manual transmissions (AMTs), and driveline systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTA007",
+      "name": "Conduct non-destructive testing",
+      "desc": "This unit describes the competency to conduct non-destructive testing (NDT) on automotive components using methods like magnetic particle, dye penetrant, or ultrasonic testing to identify flaws.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTE001",
+      "name": "Test engines using a dynamometer",
+      "desc": "This unit involves the skills to set up, operate, and interpret data from an engine dynamometer to test engine performance and diagnose complex faults under various load conditions.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTF001",
+      "name": "Analyse and repair performance carburetted fuel systems",
+      "desc": "This unit covers the specialist skills required to analyse, diagnose, and repair performance-oriented carburetted fuel systems for enhanced engine output.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTF002",
+      "name": "Analyse and repair performance fuel injection systems",
+      "desc": "This unit describes the skills to analyse, diagnose, and repair performance electronic fuel injection (EFI) systems, including modifying parameters to optimise engine performance.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH003",
+      "name": "Diagnose and repair high voltage rechargeable energy storage systems in battery electric vehicles",
+      "desc": "This advanced unit covers the skills to test, diagnose faults in, and repair high voltage (HV) battery systems and associated components in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH004",
+      "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
+      "desc": "This unit describes the skills to diagnose and repair the traction motor speed control systems, such as inverters and controllers, in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH005",
+      "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
+      "desc": "This unit involves the advanced diagnosis and repair of high voltage (HV) traction motors that propel battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH006",
+      "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles",
+      "desc": "This unit covers the diagnosis and repair of various high voltage auxiliary motors and components in battery electric vehicles (BEVs), such as those for power steering and air conditioning.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH007",
+      "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles",
+      "desc": "This unit describes the competency to diagnose and repair the instrumentation and critical safety interlock systems within battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH008",
+      "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicles",
+      "desc": "This unit involves diagnosing and repairing the specialised cooling and heating systems used for the cabin (HVAC) and the high voltage battery in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH009",
+      "name": "Diagnose and repair DC to DC converters in battery electric vehicles",
+      "desc": "This unit covers the skills to diagnose and repair the DC to DC converters that step down high voltage to power the 12-volt systems in battery electric vehicles (BEVs).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH010",
+      "name": "Diagnose and repair high voltage rechargeable energy storage systems in hybrid electric vehicles",
+      "desc": "This unit specifies the skills and knowledge required to diagnose and repair faults in the high voltage (HV) rechargeable energy storage systems of hybrid electric vehicles (HEVs).",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR40820": [
+    {
+      "code": "AURTTA121",
+      "name": "Diagnose complex system faults",
+      "desc": "This unit covers the skills and knowledge required to diagnose complex faults in vehicle systems that have intermittent or multiple interacting issues. It involves applying advanced diagnostic strategies to identify the root cause of a problem, which is a prerequisite for determining if an overhaul is necessary.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR017",
+      "name": "Overhaul charging system alternators",
+      "desc": "This unit involves the complete disassembly, inspection, repair, and reassembly of automotive charging system alternators. It includes testing components like the rotor, stator, regulator, and bearings to restore the unit to full operational condition.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR018",
+      "name": "Overhaul starting system motors",
+      "desc": "This unit describes the skills to overhaul automotive starting system motors. It covers dismantling the starter, testing the armature and field coils, replacing worn components like brushes and bushings, and reassembling and testing the unit.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETU007",
+      "name": "Overhaul air conditioning and HVAC system compressors",
+      "desc": "This unit covers the specialized process of overhauling automotive air conditioning compressors. It includes complete disassembly, inspection of internal components like pistons and seals, replacement of worn parts, and reassembly to manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTB003",
+      "name": "Overhaul hydraulic and air over hydraulic braking system components",
+      "desc": "This unit involves the skills to overhaul components from heavy vehicle hydraulic and air-over-hydraulic braking systems, such as master cylinders, wheel cylinders, and boosters.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURHTD104",
+      "name": "Carry out heavy vehicle wheel alignment operations",
+      "desc": "This unit describes the skills required to perform wheel alignments on heavy vehicles, including measuring and adjusting caster, camber, toe, and tracking to ensure proper handling and tire wear.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTB001",
+      "name": "Overhaul light vehicle braking system components",
+      "desc": "This unit covers overhauling light vehicle braking system components, such as disc brake callipers and drum brake wheel cylinders, by dismantling, inspecting, honing, and reassembling with new seals and parts.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTD106",
+      "name": "Carry out light vehicle wheel alignment operations",
+      "desc": "This unit involves the skills to perform four-wheel alignments on light vehicles by measuring and adjusting suspension angles like camber, caster, and toe to meet manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTA007",
+      "name": "Conduct non-destructive testing",
+      "desc": "This unit describes the competency to conduct non-destructive testing (NDT) on automotive components using methods like magnetic particle, dye penetrant, or ultrasonic testing to identify hidden cracks and flaws.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURMTE101",
+      "name": "Test engines using a dynamometer",
+      "desc": "This unit involves the skills to set up and operate an engine dynamometer to measure engine performance, including horsepower and torque, and to diagnose complex faults under various load conditions.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTE005",
+      "name": "Overhaul engines",
+      "desc": "This unit covers the comprehensive process of overhauling an entire engine. It includes complete disassembly, evaluation of all components, performing necessary machining, and precise reassembly to manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTF003",
+      "name": "Overhaul diesel fuel injection system components",
+      "desc": "This unit describes the skills to overhaul diesel fuel injection system components, such as injector pumps and injectors, in a clean environment to precise tolerances.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTF007",
+      "name": "Overhaul carburettor fuel system components",
+      "desc": "This unit involves the skills to overhaul carburettors by completely dismantling, cleaning all passages, replacing jets, gaskets, and seals, and reassembling to restore original performance.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM001",
+      "name": "Operate and monitor computer numerical control machines",
+      "desc": "This unit covers the skills required to set up, operate, and monitor computer numerical control (CNC) machines to perform precise machining operations on automotive components.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM002",
+      "name": "Repair bearing tunnels and connecting rods in engines",
+      "desc": "This unit involves the advanced machining skills required to recondition engine bearing tunnels (line boring) and connecting rods to restore correct size, alignment, and operational clearances.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM003",
+      "name": "Apply metal to rebuild engine components",
+      "desc": "This unit describes the skills to rebuild worn engine components by applying metal using techniques such as thermal arc spraying or welding, before machining them back to standard size.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM004",
+      "name": "Assemble engine blocks and sub-assemblies",
+      "desc": "This unit covers the precision work of assembling engine blocks and sub-assemblies after machining, including fitting crankshafts, pistons, and camshafts and checking all clearances.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM005",
+      "name": "Balance rotating and reciprocating engine components",
+      "desc": "This unit involves the skills to dynamically balance engine rotating and reciprocating components, such as the crankshaft, pistons, and connecting rods, to ensure smooth operation and longevity.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM006",
+      "name": "Perform advanced machining and blueprinting of engine components",
+      "desc": "This unit covers high-performance engine building techniques, including machining components to exact specifications (blueprinting) to optimize performance, efficiency, and reliability.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM007",
+      "name": "Carry out crankshaft grinding",
+      "desc": "This unit involves the specialized machining process of reconditioning a worn crankshaft by grinding the main and connecting rod journals to a precise undersize dimension.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM008",
+      "name": "Dismantle and evaluate engine blocks and sub-assemblies",
+      "desc": "This unit covers the initial stage of an engine overhaul, involving systematically dismantling the engine block and sub-assemblies and conducting a thorough evaluation and measurement of all components to determine repair needs.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM009",
+      "name": "Fit sleeves and bore and hone engine cylinders",
+      "desc": "This unit describes the machining processes of fitting new cylinder sleeves, boring cylinders to a precise oversize dimension, and honing the cylinder walls to the correct surface finish for new piston rings.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM010",
+      "name": "Heat treat, straighten and reclaim engine components",
+      "desc": "This unit covers advanced component reclamation techniques, including heat treating to alter metal properties, and straightening bent components like crankshafts and camshafts.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTM011",
+      "name": "Recondition engine cylinder heads",
+      "desc": "This unit involves the complete process of reconditioning engine cylinder heads, including dismantling, pressure testing, resurfacing, servicing valve guides and seats, and reassembly.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTQ004",
+      "name": "Overhaul final drive assemblies",
+      "desc": "This unit describes the skills to overhaul final drive and differential assemblies by dismantling, inspecting gears and bearings, setting backlash and preload, and reassembling the unit.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTX007",
+      "name": "Overhaul clutch assemblies",
+      "desc": "This unit covers the overhauling of clutch assemblies, including inspecting and machining flywheels and pressure plates, and replacing the clutch disc and release bearing.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTX008",
+      "name": "Overhaul manual transmissions",
+      "desc": "This unit involves the complete disassembly, inspection of gears, bearings, and synchronizers, replacement of worn parts, and reassembly of manual transmissions to manufacturer specifications.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTX009",
+      "name": "Overhaul automatic transmissions",
+      "desc": "This unit describes the complex process of overhauling automatic transmissions, which includes dismantling, inspecting clutch packs, planetary gear sets, and the valve body, and reassembling with new seals and gaskets.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
   "MSF30322": [
     {
       "code": "MSFGN2001",
@@ -2837,6 +3978,154 @@
       "code": "CPCCPB3026",
       "name": "Erect and maintain trestle and plank systems",
       "desc": "Equips individuals with the skills and knowledge required to safely set up, inspect, and maintain trestle and plank work platforms commonly used in construction tasks such as plastering and painting. This involves planning and preparing the worksite, selecting appropriate equipment, ensuring compliance with Australian Standards (e.g., AS 4576:2020), and adhering to work health and safety (WHS) regulations. Proficiency in this unit ensures that workers can effectively and safely utilise trestle and plank systems, contributing to the overall safety and efficiency of construction projects.",
+      "type": "elective",
+      "group": "General"
+    }
+  ],
+  "AUR50216": [
+    {
+      "code": "AURAFA007",
+      "name": "Develop and document specifications and procedures",
+      "desc": "This unit involves the skills and knowledge required to develop, document, and implement technical specifications and standard operating procedures for automotive tasks, ensuring consistency, quality, and compliance.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA006",
+      "name": "Conduct research and present technical reports",
+      "desc": "This unit covers the skills to conduct research on automotive technical issues and present the findings in clear, concise technical reports. It includes gathering information from various sources and structuring a formal report.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA001",
+      "name": "Analyse and evaluate electrical and electronic faults in electronic over hydraulic systems",
+      "desc": "This unit describes the advanced skills to analyse and evaluate complex electrical and electronic faults in electronic-over-hydraulic systems, commonly found in heavy vehicles and machinery.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA002",
+      "name": "Analyse and evaluate electrical and electronic faults in body management systems",
+      "desc": "This unit involves the skills to analyse and evaluate complex electrical and electronic faults in modern vehicle body control systems, such as lighting, access, and security systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA003",
+      "name": "Analyse and evaluate electrical and electronic faults in monitoring and protection systems",
+      "desc": "This unit covers the advanced diagnosis of faults in vehicle monitoring and protection systems, including driver warning systems and integrated safety features.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA004",
+      "name": "Analyse and evaluate electrical and electronic faults in convenience and entertainment systems",
+      "desc": "This unit describes the skills to analyse and evaluate complex faults in vehicle convenience and entertainment systems, such as climate control, audio-visual, and navigation systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA005",
+      "name": "Analyse and evaluate electrical and electronic faults in theft-deterrent systems",
+      "desc": "This unit involves the specialist skills to diagnose and evaluate faults in complex electronic theft-deterrent and immobiliser systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETA006",
+      "name": "Analyse and evaluate electrical and electronic faults in air conditioning and HVAC systems",
+      "desc": "This unit covers the advanced diagnosis of electrical and electronic faults within modern, electronically controlled air conditioning and HVAC systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETB002",
+      "name": "Analyse and evaluate electrical and electronic faults in dynamic control management systems",
+      "desc": "This unit specifies the skills to analyse and evaluate complex faults in vehicle dynamic control systems, including electronic stability control (ESC), anti-lock braking (ABS), and traction control (TCS).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETE001",
+      "name": "Analyse and evaluate electrical and electronic faults in engine management systems",
+      "desc": "This unit involves the advanced skills required to analyse, evaluate, and diagnose complex faults within modern electronic engine management systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETH013",
+      "name": "Analyse and evaluate electrical and electronic faults in HEV and BEV management systems",
+      "desc": "This unit covers the specialist, advanced skills to analyse and evaluate complex electrical and electronic faults in the high voltage and control systems of hybrid and battery electric vehicles (HEV/BEV).",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR033",
+      "name": "Develop and apply network electronic control system modifications",
+      "desc": "This unit describes the high-level skills to develop and apply modifications to vehicle electronic network control systems, such as CAN bus systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETR034",
+      "name": "Develop and apply electrical system modifications",
+      "desc": "This unit involves the skills to design, develop, and apply modifications to a vehicle's electrical systems, including integrating new components and circuits.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURETX001",
+      "name": "Analyse and evaluate electrical and electronic faults in driveline management systems",
+      "desc": "This unit covers the advanced diagnosis of electrical and electronic faults in driveline management systems, including electronically controlled transmissions and differentials.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTB002",
+      "name": "Analyse and evaluate faults in light vehicle braking systems",
+      "desc": "This unit describes the skills to analyse and evaluate complex faults in the braking systems of light vehicles, beyond standard diagnostic procedures.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTD007",
+      "name": "Analyse and evaluate faults in light vehicle steering and suspension systems",
+      "desc": "This unit involves the advanced analysis and evaluation of complex faults in light vehicle steering and suspension systems, including electronic power steering and adaptive suspension.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTE003",
+      "name": "Analyse and evaluate faults in light vehicle engine and fuel systems",
+      "desc": "This unit covers the advanced skills to analyse and evaluate complex performance and drivability faults in light vehicle engines and their fuel systems.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURLTQ003",
+      "name": "Analyse and evaluate faults in light vehicle transmission and driveline systems",
+      "desc": "This unit describes the skills to analyse and evaluate complex faults within the transmission and driveline systems of light vehicles.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTNA001",
+      "name": "Estimate and quote automotive vehicle or machinery modifications",
+      "desc": "This unit involves the skills to estimate the costs and prepare quotations for carrying out modifications to automotive vehicles or machinery.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "AURTTA022",
+      "name": "Develop and apply mechanical system modifications",
+      "desc": "This unit covers the high-level skills to design, develop, and apply modifications to a vehicle's mechanical systems, ensuring safety and performance.",
+      "type": "elective",
+      "group": "General"
+    },
+    {
+      "code": "MSMENV472",
+      "name": "Implement and monitor environmentally sustainable work practices",
+      "desc": "This unit specifies the competency to effectively implement and monitor environmentally sustainable work practices and procedures within a workplace.",
       "type": "elective",
       "group": "General"
     }
