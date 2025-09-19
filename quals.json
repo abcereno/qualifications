@@ -5563,5 +5563,605 @@
       "type": "elective",
       "group": "General"
     }
-  ]
+  ],
+  "45637MEM31925": [
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings.Technical drawings may utilise perspective, exploded views or hidden view techniques and may include symbol glossaries. Drawings are provided to AS 1100 Technical drawing or AS 1102 Graphical symbols and their equivalents from the full range of engineering disciplines.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments. Maximum manual lifting weight is limited to Safe Work Australia recommendations.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments. Measurements may be expressed in metric or imperial units. Electrical/electronic devices used are those not requiring the connection or disconnection of circuitry.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages. It also covers producing and interpreting simple charts and graphs in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and work health and safety (WHS) policies and procedures of the organisation. Planning is undertaken by the individual performing the work. Individual plan components may require modification and prioritising to meet job requirements or to respond to unforeseen circumstances.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and work health and safety (WHS) policies and procedures of the organisation. Planning is undertaken by the individual performing the work. Individual plan components may require modification and prioritising to meet job requirements or to respond to unforeseen circumstances.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks that apply in manufacturing, engineering or related environments. For accessing and recording of data requiring system knowledge and judgement, Unit MEM16008 Interact with computing technology should be selected.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties and it may involve the replacement of normal duties with training duties for limited periods of time. The individual would not be expected to be solely responsible for the assessment or reporting of a trainee's progress. Typical applications could include the provision of on-the-job training by a tradesperson to apprentices/trainees or by a production worker to other production workers/trainees.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify and address environmental issues, minimise negative impacts, and implement improvements. It applies to individuals or teams working sustainably across manufacturing and related sectors, and can be contextualised to suit different industry areas and roles.",
+      "type": "core"
+    }
+  ],
+  "45637MEM31419": [
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings. Technical drawings may utilise perspective, exploded views or hidden view techniques and may include symbol glossaries. Drawings are provided to AS 1100 Technical drawing or AS 1102 Graphical symbols and their equivalents from the full range of engineering disciplines.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments. Maximum manual lifting weight is limited to Safe Work Australia recommendations.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments. Measurements may be expressed in metric or imperial units. Electrical/electronic devices used are those not requiring the connection or disconnection of circuitry.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages. It also covers producing and interpreting simple charts and graphs in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency describes the skills and knowledge required to work effectively in manufacturing and engineering environments, including planning routine tasks, following work health and safety (WHS) procedures, and contributing to group activities. It covers safe operational practices in compliance with legislative and regulatory requirements, as well as participation in quality systems, communication, and cooperation with others in workplaces operating under informal or formal quality management and improvement systems.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and work health and safety (WHS) policies and procedures of the organisation. Planning is undertaken by the individual performing the work. Individual plan components may require modification and prioritising to meet job requirements or to respond to unforeseen circumstances.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks that apply in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties and it may involve the replacement of normal duties with training duties for limited periods of time. The individual would not be expected to be solely responsible for the assessment or reporting of a trainee's progress. Typical applications could include the provision of on-the-job training by a tradesperson to apprentices/trainees or by a production worker to other production workers/trainees.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency covers the skills and knowledge required to use a range of handheld and fixed power tools for general engineering applications, excluding tools dedicated to specific operations or machines such as nut-runners, air drills, and power drivers.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18055",
+      "name": "Dismantle, replace and assemble engineering components",
+      "desc": "This unit of competency defines the skills and knowledge required to dismantle, identify faulty components, select replacements and assemble engineering components into assemblies or sub-assemblies in accordance with standard operating procedures (SOPs). It also applies to the straightforward removal and replacement of pre-manufactured bearings and seals.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27006",
+      "name": "Diagnose and rectify batteries, low voltage sensors and circuits",
+      "desc": "This unit of competency defines the skills and knowledge required to use test instruments, test the battery, assess and rectify wiring faults. It applies to testing and rectification activities associated with 12, 24 36 and 48 volt wiring systems on vehicles, mobile plant and stationary equipment.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27016",
+      "name": "Diagnose and maintain electronic controlling systems on mobile/stationary plant",
+      "desc": "This unit of competency defines the skills and knowledge required to test, diagnose and fault find electronic control systems associated with mobile and stationary plant and equipment. It applies to whole of equipment diagnosis and rectification and complements diagnostic and rectification skills contained in individual system units of competency.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27017",
+      "name": "Maintain, fault find and rectify hydraulic systems for mobile plant",
+      "desc": "This unit of competency defines the skills and knowledge required to test, fault find and rectify hydraulic systems used in the earthmoving, agricultural and transport industries. It covers identifying the hydraulic system and components used on mobile plant, general servicing and identifying faults that are related to electronic and fieldbus controls and communication.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27019",
+      "name": "Diagnose, repair and replace diesel engines in stationary and mobile plant",
+      "desc": "This unit of competency defines the skills and knowledge required to diagnose, repair and replace diesel engines used in mobile and stationary plant and equipment. It covers the diagnosis of diesel engine operation to determine location and cause of faults and whether in situ repair, more specialist investigation or engine removal for off-site repair is required. It includes bottom and top end repair of engines and re-installing repaired or replacement engines into stationary and mobile plant. Where repairs to fuel, coolant, electrical and starting, exhaust systems, as well as transmissions and accessories and their components are required, see the appropriate units.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27020",
+      "name": "Apply knowledge of large combustion engine operations to service/maintenance",
+      "desc": "This unit of competency defines the skills and knowledge required to identify engine features and operations essential for large engine servicing and maintenance tasks. It includes identifying and assessing large combustion engines, the equipment powered by the engines, and the operations the equipment is required to perform and applying this information to engine service and maintenance tasks.",
+      "type": "core"
+    },
+    {
+      "code": "MEM27023",
+      "name": "Diagnose and rectify fieldbus circuits in mobile/stationary plant/equipment",
+      "desc": "This unit of competency defines the skills and knowledge required to carry out diagnosis and rectification of circuits used in controller area network (CAN) and other fieldbus systems and control technology components in mobile and stationary plant. It applies to systems and components that do not require a host computer. The unit can apply to circuits used for communication with and between systems and components, including systems for engine management, suspension, hydraulics and pneumatics, chassis and body management, braking systems, mechanical, electrical and hydraulic drives, lighting control, air conditioning, vehicle guidance and telemetry.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit of competency covers the skills and knowledge required to comply with environmental regulations, identify issues, minimise negative impacts, and make improvements in the work area. It applies to operators and team members across all sectors of the manufacturing industry and its value chain, including offices and warehouses, and requires working individually or in teams, often in coordination with other staff such as shift members and control room operators, with contextualisation to the relevant industry or organisation.",
+      "type": "core"
+    }
+  ],
+  "45637AUR31220": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA006",
+      "name": "Inspect and service hydraulic systems",
+      "desc": "This unit describes the performance outcomes required to inspect and service hydraulic systems. It involves preparing for the task, inspecting the system, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA104",
+      "name": "Carry out servicing operations",
+      "desc": "This unit describes the skills and knowledge required to carry out servicing operations. It involves preparing for the task, identifying lubricant requirements, servicing and adjusting vehicle and machinery, reporting the inspection findings, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA105",
+      "name": "Select and use bearings, seals, gaskets, sealants and adhesives",
+      "desc": "This unit describes the skills and knowledge required to select and use bearings, seals, gaskets, sealants and adhesives in the automotive vehicle industry. It involves preparing for the task, selecting and using sealants and adhesives, preparing and installing bearings, seals and gaskets, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+      "type": "core"
+    }
+  ],
+  "45637AUR32120": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA108",
+      "name": "Interpret and apply automotive repair instructions",
+      "desc": "This unit describes the skills and knowledge required to source, interpret and apply repair requirements from automotive workplace instructions and work orders. It involves following worksheets and work orders when conducting vehicle repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR042",
+      "name": "Remove, refit and operate electrical components following body repair activities",
+      "desc": "This unit describes the performance outcomes required to remove, refit and test the operation of electrical components following body repair activities. Electrical components include headlights, tail-lights, mirrors, antennas, sensors, actuators, and vehicle, vessel or machinery control modules. These components are not an integral part of vehicle controller area network databus (CAN-bus) typography and do not require programming procedures following fitting activities.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTY001",
+      "name": "Repair vehicle chassis, frame and associated components",
+      "desc": "This unit describes the performance outcomes required to inspect, repair and align chassis, frame and components to vehicles. It involves preparing for the task, selecting and using specialist tools and equipment, identifying damage, taking pre-repair measurements, conducting repairs, taking post-repair measurements according to original equipment manufacturer (OEM) or authorised agency specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN003",
+      "name": "Remove and store vehicle body components",
+      "desc": "This unit describes the performance outcomes required to perform pre-repair activities by removing and storing vehicle body components. It involves preparing for the task, selecting and using specialist tools and equipment, following workplace instructions in removing, tagging and storing body components as part of pre-repair requirements, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN022",
+      "name": "Repair vehicle body misalignment",
+      "desc": "This unit describes the performance outcomes required to repair vehicle misalignment. It involves preparing for the task, selecting and using specialist tools and equipment, setting up vehicle body measuring equipment, taking measurements, identifying and repairing vehicle body misalignment to pre-paint condition, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN104",
+      "name": "Remove, replace and align bolt-on vehicle body panels and components",
+      "desc": "This unit describes the skills and knowledge required to remove, reassemble and align vehicle body panels as part of vehicle body repair activities. This unit involves preparing for the task, selecting and using specialist tools and equipment, following original equipment manufacturer (OEM) or authorised agency specifications and workplace procedures. It also involves carrying out a final alignment inspection and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN116",
+      "name": "Repair vehicle body panels using filler",
+      "desc": "This unit describes the skills and knowledge required to repair vehicle body panels using filler. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying body filler type and specifications, calculating and mixing body filler and applying to panels, completing repairs to pre-paint condition, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN120",
+      "name": "Remove and replace major welded panels on vehicles",
+      "desc": "This unit describes the skills and knowledge required to remove and replace vehicle welded panels and panel sections. This unit involves preparing for the task, selecting and using specialist tools and equipment, removing, repairing, aligning and welding major vehicle panels and sections. It also includes finishing repair to pre-paint condition and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN123",
+      "name": "Repair adhesive bonded structural damage on vehicles",
+      "desc": "This unit describes the skills and knowledge required to repair bonded vehicle body panels and structures using an adhesive attachment method. This unit involves preparing for the task, selecting and using specialist tools and equipment, removing bonded structural damage, repairing panel sections, applying approved adhesives and realigning the structural repair, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN132",
+      "name": "Inspect vehicle damage and determine repair procedures",
+      "desc": "This unit describes the skills and knowledge required to inspect a vehicle for damage and determine suitable repair procedures. This unit involves preparing for the task, selecting and using measuring equipment, inspecting damage, determining repair requirements, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTN135",
+      "name": "Apply original equipment manufacturer repair procedures during vehicle repairs",
+      "desc": "This unit describes the skills and knowledge required to locate and apply original equipment manufacturer (OEM) or authorised agency recommended repair procedures during vehicle or component repair work. This unit involves preparing for the task, inspecting the vehicle damage, and identifying repair requirements according to OEM or authorised agency’s specifications, developing a repair plan, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTW103",
+      "name": "Carry out advanced gas metal arc welding on vehicle body sections",
+      "desc": "This unit describes the skills and knowledge required to carry out advanced gas metal arc welding (GMAW) to replace structural and non-structural vehicle body sections during vehicle body repair work. It involves preparing for the task, selecting and using GMAW equipment, operating gas metal arc welder, selecting and using suitable personal protective equipment (PPE), and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTW105",
+      "name": "Carry out spot welding",
+      "desc": "This unit describes the skills and knowledge required to carry out spot welding to replace structural and non-structural vehicle body sections according to original equipment manufacturer (OEM) or authorised agency procedures. It involves preparing for the task, selecting and using spot welding equipment, adjusting spot welder, operating spot welder, selecting and using suitable personal protective equipment (PPE), inspecting and testing weld quality, and completing workplace processes and documentation.",
+      "type": "core"
+    }
+  ],
+  "45637AUR32420": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "core"
+    },
+    {
+      "code": "AURAFA108",
+      "name": "Interpret and apply automotive repair instructions",
+      "desc": "This unit describes the skills and knowledge required to source, interpret and apply repair requirements from automotive workplace instructions and work orders. It involves following worksheets and work orders when conducting vehicle repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP002",
+      "name": "Mask vehicle panels and components",
+      "desc": "This unit describes the performance outcomes required to apply masking materials in preparation for vehicle and component refinishing. It involves preparing for the task, selecting and using tools and equipment, selecting masking materials appropriate to the vehicle or component, masking off surrounding panels and components before refinishing activities, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP006",
+      "name": "Apply refinishing primers to vehicle surfaces",
+      "desc": "This unit describes the performance outcomes required to prepare vehicle surfaces and then apply refinishing primers to them prior to final paint coats. It involves preparing for the task, selecting and using specialist tools and equipment, mixing and applying automotive primers to substrate surfaces according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP019",
+      "name": "Prepare and paint plastic and composite vehicle surfaces",
+      "desc": "This unit describes the performance outcomes required to prepare and apply refinishing materials to plastic and composite vehicle surfaces. It involves preparing for the task, selecting and using specialist tools and equipment, preparing components, mixing and applying paint materials to plastic or composite components according to paint manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP020",
+      "name": "De-nib, buff and polish vehicle painted surfaces",
+      "desc": "This unit describes the performance outcomes required to carry out final polishing activities on vehicle painted surfaces. It involves preparing for the task, selecting and using specialist tools and equipment, identifying paint defects, selecting buffing and polishing materials, de-nibbing, buffing and polishing surfaces, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP101",
+      "name": "Remove paint from vehicle painted surfaces",
+      "desc": "This unit describes the skills and knowledge required to remove paint from vehicle painted surfaces using a variety of industry-approved methods and without causing damage to vehicle and components. This unit involves preparing for the task, selecting and using specialist tools, equipment and chemicals to remove paint from metal and plastic component surfaces in preparation for repairs or refinishing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP103",
+      "name": "Prepare vehicle spray painting equipment for use",
+      "desc": "This unit describes the skills and knowledge required to clean and maintain vehicle spray painting equipment. This unit involves preparing for the task, selecting and using cleaning materials and equipment, preparing spray painting equipment for vehicle refinishing activities, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP104",
+      "name": "Apply basic colour matching techniques using vehicle paint codes",
+      "desc": "This unit describes the skills and knowledge required to colour match paints using original equipment manufacturer (OEM) paint codes. This unit involves preparing for the task, selecting and using specialist tools and equipment, preparing colour matching test cards, mixing and spraying paint and conducting a visual colour match, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP110",
+      "name": "Prepare and operate vehicle paint drying equipment",
+      "desc": "This unit describes the skills and knowledge required to prepare paint drying equipment. This unit involves preparing for the task, selecting and using specialist tools and equipment, setting, operating and maintaining paint drying equipment to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP113",
+      "name": "Prepare vehicle substrates for refinishing",
+      "desc": "This unit describes the skills and knowledge required to prepare vehicle substrates for refinishing by removing surface rust and scale and applying primers and sealers before the final refinishing. This unit involves preparing for the task, selecting and using specialist tools and equipment, selecting and using materials, cleaning vehicle substrate surfaces according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP114",
+      "name": "Colour match multi-layer and clear over base two-pack paints on vehicles and components",
+      "desc": "This unit describes the skills and knowledge required to match vehicle or component multi-layer and clear over base paint colours using original equipment manufacturer (OEM) paint codes. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying paint codes, preparing colour matching test cards, mixing and spraying paint and conducting a visual colour match, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP115",
+      "name": "Match direct gloss solid paint colour on vehicles or components",
+      "desc": "This unit describes the skills and knowledge required to match vehicle or component direct gloss solid paint colours using original equipment manufacturer (OEM) paint codes. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying paint codes, preparing colour matching test cards, mixing and spraying paint and conducting a visual colour match, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP117",
+      "name": "Rectify and touch up vehicle paint faults using clear over base two-pack systems",
+      "desc": "This unit describes the skills and knowledge required to rectify and touch up paint faults on vehicle body components. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying and rectifying faults using clear over base (COB) two-pack paint materials according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP123",
+      "name": "Apply clear over base two-pack refinishing materials to vehicle body components",
+      "desc": "This unit describes the skills and knowledge required to mix and apply clear over base (COB) paint materials to vehicle body components. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying paint faults, preparing surface to be painted, selecting and applying COB two-pack refinishing materials according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP124",
+      "name": "Apply clear over base multi-layer and pearl refinishing materials to vehicle body components",
+      "desc": "This unit describes the skills and knowledge required to mix and apply clear over base (COB) multi-layer and pearl refinishing materials to vehicle body components. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying paint defects, preparing vehicle surfaces, selecting, mixing and applying refinishing materials according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURVTP125",
+      "name": "Apply water-based refinishing materials to vehicle bodies and substrates",
+      "desc": "This unit describes the skills and knowledge required to mix and apply water-based refinishing materials in order to refinish a variety of vehicle bodies and substrates. This unit involves preparing for the task, selecting and using specialist tools and equipment, identifying paint defects, preparing surfaces, selecting, mixing and applying water-based refinishing materials according to manufacturer specifications, and completing workplace processes and documentation.",
+      "type": "core"
+    }
+  ],
+  "45637AUR30820": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR131",
+      "name": "Diagnose and repair ignition systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the ignition systems of vehicles, vessels or machinery. The unit involves preparing for the task, selecting the correct diagnostic procedure, carrying out the diagnosis and the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTB101",
+      "name": "Diagnose and repair motorcycle braking systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the braking systems of motorcycles. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTD103",
+      "name": "Diagnose and repair motorcycle suspension systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair motorcycle suspension systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTD104",
+      "name": "Diagnose and repair motorcycle steering systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair motorcycle steering systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTE101",
+      "name": "Diagnose and repair motorcycle engines",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the engines of motorcycles. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTE103",
+      "name": "Inspect and service motorcycle engines",
+      "desc": "This unit describes the skills and knowledge required to inspect and service motorcycle engines. It involves preparing for the task, inspecting the engine, reporting the inspection findings, servicing and adjusting the engine, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTE104",
+      "name": "Diagnose and repair motorcycle engine management systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the motorcycle engine management systems of motorcycles. The unit involves preparing for the task, selecting the correct diagnostic procedure, carrying out the diagnosis and the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTQ102",
+      "name": "Diagnose and repair motorcycle driveline systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the driveline systems of motorcycles. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTR102",
+      "name": "Diagnose and repair motorcycle charging systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair motorcycle charging systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTR103",
+      "name": "Diagnose and repair motorcycle starting systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair motorcycle starting systems. The systems used vary based on the work context. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTR104",
+      "name": "Diagnose and repair motorcycle dynamic control systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair motorcycle dynamic control systems. These systems include the functions of a motorcycle electronic braking control module (EBCM), such as anti-lock braking, traction control, anti-dive control and front wheel lift control. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTX101",
+      "name": "Diagnose and repair motorcycle clutch systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the clutch systems of motorcycles. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURJTX102",
+      "name": "Diagnose and repair motorcycle manual transmissions",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the manual transmissions of motorcycles. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTB101",
+      "name": "Inspect and service braking systems",
+      "desc": "This unit describes the skills and knowledge required to inspect and service braking systems according to manufacturer specifications. It involves preparing for the task, inspecting the system, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation. The servicing undertaken will vary based on the work context.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTC103",
+      "name": "Diagnose and repair cooling systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the cooling systems of vehicles. The systems used vary based on the work context. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTF101",
+      "name": "Inspect and service petrol fuel systems",
+      "desc": "This unit describes the skills and knowledge required to inspect and service vehicle petrol fuel systems. It involves preparing for the task, inspecting the fuel system for leaks, inspecting the air filter, reporting the inspection findings, servicing and adjusting the petrol fuel system, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTF106",
+      "name": "Diagnose and repair petrol carburettor systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the petrol carburettor systems of vehicles. The systems used vary based on the work context. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+      "type": "core"
+    }
+  ]  
 }
