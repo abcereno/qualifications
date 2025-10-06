@@ -6878,421 +6878,138 @@
             "type": "elective "
         }
     ],
-    "45637AUR32721": [
-        {
-            "code": "AURAEA002",
-            "name": "Follow environmental and sustainability best practice in an automotive workplace",
-            "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
-            "type": "core"
-        },
-        {
-            "code": "AURASA102",
-            "name": "Follow safe working practices in an automotive workplace",
-            "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
-            "type": "core"
-        },
-        {
-            "code": "AURETH101",
-            "name": "Depower and reinitialise battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
-            "type": "core"
-        },
-        {
-            "code": "AURETH102",
-            "name": "Inspect and maintain battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
-            "type": "core"
-        },
-        {
-            "code": "AURETH104",
-            "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETH105",
-            "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETH106",
-            "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETH107",
-            "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETH108",
-            "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETH109",
-            "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "core"
-        },
-        {
-            "code": "AURETK002",
-            "name": "Use and maintain electrical test equipment in an automotive workplace",
-            "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
-            "type": "core"
-        },
-        {
-            "code": "AURETR112",
-            "name": "Test and repair basic electrical circuits",
-            "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
-            "type": "core"
-        },
-        {
-            "code": "AURETR125",
-            "name": "Test, charge and replace batteries and jump-start vehicles",
-            "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
-            "type": "core"
-        },
-        {
-            "code": "AURETU103",
-            "name": "Service air conditioning and HVAC systems",
-            "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
-            "type": "core"
-        },
-        {
-            "code": "AURTTA118",
-            "name": "Develop and carry out diagnostic test strategies",
-            "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of\r\na fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
-            "type": "core"
-        },
-        {
-            "code": "AURTTK102",
-            "name": "Use and maintain tools and equipment in an automotive workplace",
-            "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
-            "type": "core"
-        },
-        {
-            "code": "AURAEA002",
-            "name": "Follow environmental and sustainability best practice in an automotive workplace",
-            "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
-            "type": "elective "
-        },
-        {
-            "code": "AURASA102",
-            "name": "Follow safe working practices in an automotive workplace",
-            "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH101",
-            "name": "Depower and reinitialise battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH102",
-            "name": "Inspect and maintain battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH104",
-            "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH105",
-            "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH106",
-            "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH107",
-            "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH108",
-            "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETH109",
-            "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
-            "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-            "type": "elective "
-        },
-        {
-            "code": "AURETK002",
-            "name": "Use and maintain electrical test equipment in an automotive workplace",
-            "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETR112",
-            "name": "Test and repair basic electrical circuits",
-            "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETR125",
-            "name": "Test, charge and replace batteries and jump-start vehicles",
-            "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
-            "type": "elective "
-        },
-        {
-            "code": "AURETU103",
-            "name": "Service air conditioning and HVAC systems",
-            "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
-            "type": "elective "
-        },
-        {
-            "code": "AURTTA118",
-            "name": "Develop and carry out diagnostic test strategies",
-            "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of\r\na fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
-            "type": "elective "
-        },
-        {
-            "code": "AURTTK102",
-            "name": "Use and maintain tools and equipment in an automotive workplace",
-            "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
-            "type": "elective "
-        }
-    ],
-    "45637MEM30219": [
-        {
-            "code": "MEM09002",
-            "name": "Interpret technical drawing",
-            "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings. Technical drawings may utilise perspective, exploded views or hidden view techniques and may include symbol glossaries. Drawings are provided to AS 1100 Technical drawing or AS 1102 Graphical symbols and their equivalents from the full range of engineering disciplines.",
-            "type": "core"
-        },
-        {
-            "code": "MEM11011",
-            "name": "Undertake manual handling",
-            "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.",
-            "type": "core"
-        },
-        {
-            "code": "MEM12023",
-            "name": "Perform engineering measurements",
-            "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments. Measurements may be expressed in metric or imperial units.",
-            "type": "core"
-        },
-        {
-            "code": "MEM12024",
-            "name": "Perform computations",
-            "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.",
-            "type": "core"
-        },
-        {
-            "code": "MEM13015",
-            "name": "Work safely and effectively in manufacturing and engineering",
-            "desc": "This unit of competency defines the skills and knowledge required to work effectively in manufacturing and engineering work situations, including planning routine work and participating in and following work health and safety (WHS) procedures. The unit applies to working either individually or in a team situation and includes contributing to work-related group activities in a manufacturing or engineering workplace.",
-            "type": "core"
-        },
-        {
-            "code": "MEM14006",
-            "name": "Plan work activities",
-            "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and work health and safety (WHS) policies and procedures of the organisation.",
-            "type": "core"
-        },
-        {
-            "code": "MEM16006",
-            "name": "Organise and communicate information",
-            "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks that apply in manufacturing, engineering or related environments.",
-            "type": "core"
-        },
-        {
-            "code": "MEM16008",
-            "name": "Interact with computing technology",
-            "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
-            "type": "core"
-        },
-        {
-            "code": "MEM17003",
-            "name": "Assist in the provision of on-the-job training",
-            "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties and it may involve the replacement of normal duties with training duties for limited periods of time. The individual would not be expected to be solely responsible for the assessment or reporting of a trainee's progress.",
-            "type": "core"
-        },
-        {
-            "code": "MEM18001",
-            "name": "Use hand tools",
-            "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
-            "type": "core"
-        },
-        {
-            "code": "MEM18002",
-            "name": "Use power tools/hand held operations",
-            "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
-            "type": "core"
-        },
-        {
-            "code": "MSMENV272",
-            "name": "Participate in environmentally sustainable work practices",
-            "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify environment issues and minimise the risks of negative impact on work and carry out improvements in own work area.",
-            "type": "core"
-        },
-        {
-            "code": "MEM05005",
-            "name": "Carry out mechanical cutting",
-            "desc": "This unit of competency defines the skills and knowledge required to set up and operate a range of mechanical cutting and holing equipment.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM07005",
-            "name": "Perform general machining",
-            "desc": "This unit of competency has been developed for Engineering Tradesperson – Mechanical apprenticeship training and the recognition of trade-level skills in non-computer numerical controlled (CNC) machining of ferrous and non-ferrous materials.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM07008",
-            "name": "Perform grinding operations",
-            "desc": "This unit of competency has been developed for Engineering Tradesperson - Mechanical apprenticeship training and the recognition of trad- level skills in performing grinding operations and checking finished components for conformance to specifications.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM07009",
-            "name": "Perform precision jig boring operations",
-            "desc": "This unit of competency defines the skills and knowledge required to perform precision jig boring operations using a range of jig boring and milling machines.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM07011",
-            "name": "Perform complex milling operations",
-            "desc": "This unit of competency defines the skills and knowledge required to perform complex milling operations on a range of materials, including non-standard metals and alloys.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM12006",
-            "name": "Mark off/out (general engineering)",
-            "desc": "This unit of competency has been developed for engineering tradesperson - mechanical apprenticeship training and the recognition of trade-level skills in marking off/out in general engineering.",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM18055",
-            "name": "Dismantle, replace and assemble engineering components",
-            "desc": "This unit of competency defines the skills and knowledge required to dismantle, identify faulty components, select replacements and assemble engineering components into assemblies or sub-assemblies in accordance with standard operating procedures (SOPs).",
-            "type": "elective ",
-            "group": "A"
-        },
-        {
-            "code": "MEM18006",
-            "name": "Perform precision fitting of engineering components",
-            "desc": "This unit of competency has been developed for Engineering Tradesperson - Mechanical apprenticeship training and the recognition of trade-level skills in precision fitting and mechanical repair.",
-            "type": "elective ",
-            "group": "B"
-        },
-        {
-            "code": "MEM18007",
-            "name": "Maintain and repair mechanical drives and mechanical transmission assemblies",
-            "desc": "This unit of competency defines the skills and knowledge required to undertake maintenance, diagnose faults and repair drives and transmission assemblies, and undertake final adjustment and commissioning on industrial machinery.",
-            "type": "elective ",
-            "group": "B"
-        },
-        {
-            "code": "MEM18018",
-            "name": "Maintain pneumatic system components",
-            "desc": "This unit of competency defines the skills and knowledge required to check pneumatic system components, identify and repair or replace faulty components.",
-            "type": "elective ",
-            "group": "B"
-        },
-        {
-            "code": "MEM18020",
-            "name": "Maintain hydraulic system components",
-            "desc": "This unit of competency defines the skills and knowledge required to check hydraulic system components, identify, and repair or replace faulty components.",
-            "type": "elective ",
-            "group": "B"
-        },
-        {
-            "code": "MEM18055",
-            "name": "Dismantle, replace and assemble engineering components",
-            "desc": "This unit of competency defines the skills and knowledge required to dismantle, identify faulty components, select replacements and assemble engineering components into assemblies or sub-assemblies in accordance with standard operating procedures (SOPs).",
-            "type": "elective ",
-            "group": "B"
-        },
-        {
-            "code": "MEM10006",
-            "name": "Install machine/plant",
-            "desc": "This unit of competency defines the skills and knowledge required to install machine/plant where the equipment being installed requires substantial modification to the existing site and/or connecting equipment and excludes minor modifications.",
-            "type": "elective ",
-            "group": "C"
-        },
-        {
-            "code": "MEM12003",
-            "name": "Perform precision mechanical measurement",
-            "desc": "This unit of competency defines the skills and knowledge required to perform precision mechanical measurement.",
-            "type": "elective ",
-            "group": "C"
-        },
-        {
-            "code": "MEM18018",
-            "name": "Maintain pneumatic system components",
-            "desc": "This unit of competency defines the skills and knowledge required to check pneumatic system components, identify and repair or replace faulty components.",
-            "type": "elective ",
-            "group": "C"
-        },
-        {
-            "code": "MEM18020",
-            "name": "Maintain hydraulic system components",
-            "desc": "This unit of competency defines the skills and knowledge required to check hydraulic system components, identify, and repair or replace faulty components.",
-            "type": "elective ",
-            "group": "C"
-        },
-        {
-            "code": "MEM18055",
-            "name": "Dismantle, replace and assemble engineering components",
-            "desc": "This unit of competency defines the skills and knowledge required to dismantle, identify faulty components, select replacements and assemble engineering components into assemblies or sub-assemblies in accordance with standard operating procedures (SOPs).",
-            "type": "elective ",
-            "group": "C"
-        },
-        {
-            "code": "MEM05004",
-            "name": "Perform routine oxy fuel gas welding",
-            "desc": "This unit of competency defines the skills and knowledge required to prepare materials and perform routine oxy fuel gas welding of mild/low carbon steel and cast iron where the welding is not required to meet an Australian Standard or equivalent.",
-            "type": "elective ",
-            "group": "D"
-        },
-        {
-            "code": "MEM05049",
-            "name": "Perform routine gas tungsten arc welding",
-            "desc": "This unit of competency defines the skills and knowledge required to prepare the materials and carry out routine gas tungsten arc welding (GTAW) and applies in a maintenance or manufacturing environment where the weld quality is not required to meet an Australian Standard.",
-            "type": "elective ",
-            "group": "D"
-        },
-        {
-            "code": "MEM18009",
-            "name": "Perform precision levelling and alignment of machines and engineering components",
-            "desc": "This unit of competency defines the skills and knowledge required to undertake levelling and alignment measurements/readings and perform levelling and/or alignment and adjustment tasks on machines and engineering components.",
-            "type": "elective ",
-            "group": "D"
-        },
-        {
-            "code": "MEM18010",
-            "name": "Perform equipment condition monitoring and recording",
-            "desc": "This unit of competency defines the skills and knowledge required to undertake condition monitoring of equipment, including recording the results.",
-            "type": "elective ",
-            "group": "D"
-        }
-    ],
+"45637AUR32721": [
+  {
+    "code": "AURAEA002",
+    "name": "Follow environmental and sustainability best practice in an automotive workplace",
+    "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+    "type": "core"
+  },
+  {
+    "code": "AURASA102",
+    "name": "Follow safe working practices in an automotive workplace",
+    "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+    "type": "core"
+  },
+  {
+    "code": "AURETH101",
+    "name": "Depower and reinitialise battery electric vehicles",
+    "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
+    "type": "core"
+  },
+  {
+    "code": "AURETH102",
+    "name": "Inspect and maintain battery electric vehicles*",
+    "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
+    "type": "core"
+  },
+  {
+    "code": "AURETH104",
+    "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETH105",
+    "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETH106",
+    "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETH107",
+    "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETH108",
+    "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETH109",
+    "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+    "type": "core"
+  },
+  {
+    "code": "AURETK002",
+    "name": "Use and maintain electrical test equipment in an automotive workplace",
+    "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
+    "type": "core"
+  },
+  {
+    "code": "AURETR112",
+    "name": "Test and repair basic electrical circuits",
+    "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
+    "type": "core"
+  },
+  {
+    "code": "AURETR125",
+    "name": "Test, charge and replace batteries and jump-start vehicles",
+    "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+    "type": "core"
+  },
+  {
+    "code": "AURETU103",
+    "name": "Service air conditioning and HVAC systems",
+    "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
+    "type": "core"
+  },
+  {
+    "code": "AURTTA118",
+    "name": "Develop and carry out diagnostic test strategies",
+    "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
+    "type": "core"
+  },
+  {
+    "code": "AURTTK102",
+    "name": "Use and maintain tools and equipment in an automotive workplace",
+    "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+    "type": "core"
+  }
+],
+"45637MEM30219": [
+  { "code": "MEM09002", "name": "Interpret technical drawing", "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings. Technical drawings may utilise perspective, exploded views or hidden view techniques and may include symbol glossaries. Drawings are provided to AS 1100 Technical drawing or AS 1102 Graphical symbols and their equivalents from the full range of engineering disciplines.", "type": "core" },
+  { "code": "MEM11011", "name": "Undertake manual handling", "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.", "type": "core" },
+  { "code": "MEM12023", "name": "Perform engineering measurements", "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments. Measurements may be expressed in metric or imperial units.", "type": "core" },
+  { "code": "MEM12024", "name": "Perform computations", "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.", "type": "core" },
+  { "code": "MEM13015", "name": "Work safely and effectively in manufacturing and engineering", "desc": "This unit of competency defines the skills and knowledge required to work effectively in manufacturing and engineering work situations, including planning routine work and participating in and following work health and safety (WHS) procedures. The unit applies to working either individually or in a team situation and includes contributing to work-related group activities in a manufacturing or engineering workplace.", "type": "core" },
+  { "code": "MEM14006", "name": "Plan work activities", "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and work health and safety (WHS) policies and procedures of the organisation.", "type": "core" },
+  { "code": "MEM16006", "name": "Organise and communicate information", "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks that apply in manufacturing, engineering or related environments.", "type": "core" },
+  { "code": "MEM16008", "name": "Interact with computing technology", "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.", "type": "core" },
+  { "code": "MEM17003", "name": "Assist in the provision of on-the-job training", "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties and it may involve the replacement of normal duties with training duties for limited periods of time. The individual would not be expected to be solely responsible for the assessment or reporting of a trainee's progress.", "type": "core" },
+  { "code": "MEM18001", "name": "Use hand tools", "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.", "type": "core" },
+  { "code": "MEM18002", "name": "Use power tools/hand held operations", "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.", "type": "core" },
+  { "code": "MSMENV272", "name": "Participate in environmentally sustainable work practices", "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify environment issues and minimise the risks of negative impact on work and carry out improvements in own work area.", "type": "core" },
+  { "code": "MEM05005", "name": "Carry out mechanical cutting", "desc": "This unit of competency defines the skills and knowledge required to set up and operate a range of mechanical cutting and holing equipment.", "type": "elective ", "group": "A" },
+  { "code": "MEM07005", "name": "Perform general machining", "desc": "This unit of competency has been developed for Engineering Tradesperson – Mechanical apprenticeship training and the recognition of trade-level skills in non-computer numerical controlled (CNC) machining of ferrous and non-ferrous materials.", "type": "elective ", "group": "A" },
+  { "code": "MEM07008", "name": "Perform grinding operations", "desc": "This unit of competency has been developed for Engineering Tradesperson - Mechanical apprenticeship training and the recognition of trad- level skills in performing grinding operations and checking finished components for conformance to specifications.", "type": "elective ", "group": "A" },
+  { "code": "MEM07009", "name": "Perform precision jig boring operations", "desc": "This unit of competency defines the skills and knowledge required to perform precision jig boring operations using a range of jig boring and milling machines.", "type": "elective ", "group": "A" },
+  { "code": "MEM07011", "name": "Perform complex milling operations", "desc": "This unit of competency defines the skills and knowledge required to perform complex milling operations on a range of materials, including non-standard metals and alloys.", "type": "elective ", "group": "A" },
+  { "code": "MEM12006", "name": "Mark off/out (general engineering)", "desc": "This unit of competency has been developed for engineering tradesperson - mechanical apprenticeship training and the recognition of trade-level skills in marking off/out in general engineering.", "type": "elective ", "group": "A" },
+  { "code": "MEM18055", "name": "Dismantle, replace and assemble engineering components", "desc": "This unit of competency defines the skills and knowledge required to dismantle, identify faulty components, select replacements and assemble engineering components into assemblies or sub-assemblies in accordance with standard operating procedures (SOPs).", "type": "elective ", "group": "A" },
+
+  { "code": "MEM18006", "name": "Perform precision fitting of engineering components", "desc": "This unit of competency has been developed for Engineering Tradesperson - Mechanical apprenticeship training and the recognition of trade-level skills in precision fitting and mechanical repair.", "type": "elective ", "group": "B" },
+  { "code": "MEM18007", "name": "Maintain and repair mechanical drives and mechanical transmission assemblies", "desc": "This unit of competency defines the skills and knowledge required to undertake maintenance, diagnose faults and repair drives and transmission assemblies, and undertake final adjustment and commissioning on industrial machinery.", "type": "elective ", "group": "B" },
+  { "code": "MEM18018", "name": "Maintain pneumatic system components", "desc": "This unit of competency defines the skills and knowledge required to check pneumatic system components, identify and repair or replace faulty components.", "type": "elective ", "group": "B" },
+  { "code": "MEM18020", "name": "Maintain hydraulic system components", "desc": "This unit of competency defines the skills and knowledge required to check hydraulic system components, identify, and repair or replace faulty components.", "type": "elective ", "group": "B" },
+
+  { "code": "MEM10006", "name": "Install machine/plant", "desc": "This unit of competency defines the skills and knowledge required to install machine/plant where the equipment being installed requires substantial modification to the existing site and/or connecting equipment and excludes minor modifications.", "type": "elective ", "group": "C" },
+  { "code": "MEM12003", "name": "Perform precision mechanical measurement", "desc": "This unit of competency defines the skills and knowledge required to perform precision mechanical measurement.", "type": "elective ", "group": "C" },
+
+  { "code": "MEM05004", "name": "Perform routine oxy fuel gas welding", "desc": "This unit of competency defines the skills and knowledge required to prepare materials and perform routine oxy fuel gas welding of mild/low carbon steel and cast iron where the welding is not required to meet an Australian Standard or equivalent.", "type": "elective ", "group": "D" },
+  { "code": "MEM05049", "name": "Perform routine gas tungsten arc welding", "desc": "This unit of competency defines the skills and knowledge required to prepare the materials and carry out routine gas tungsten arc welding (GTAW) and applies in a maintenance or manufacturing environment where the weld quality is not required to meet an Australian Standard.", "type": "elective ", "group": "D" },
+  { "code": "MEM18009", "name": "Perform precision levelling and alignment of machines and engineering components", "desc": "This unit of competency defines the skills and knowledge required to undertake levelling and alignment measurements/readings and perform levelling and/or alignment and adjustment tasks on machines and engineering components.", "type": "elective ", "group": "D" },
+  { "code": "MEM18010", "name": "Perform equipment condition monitoring and recording", "desc": "This unit of competency defines the skills and knowledge required to undertake condition monitoring of equipment, including recording the results.", "type": "elective ", "group": "D" }
+],
     "45637MEM31419": [
         {
             "code": "MEM13015",
@@ -7962,5 +7679,273 @@
             "desc": "This unit covers maintaining accurate and compliant weld records, including establishing record-keeping requirements and documenting weld details in accordance with enterprise quality systems, customer or project specifications, or welder qualification continuity, using formal record systems either electronically or manually.",
             "type": "elective"
         }
-    ]
+    ],
+    "45637AUR30620": [
+    {
+      "code": "AURLTE102",
+      "name": "Diagnose and repair light vehicle engines",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair faults in light vehicle engines. It involves identifying and confirming work requirements, preparing for work, diagnosing engine faults, repairing or replacing faulty components, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURLTD104",
+      "name": "Diagnose and repair light vehicle steering systems",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair faults in light vehicle steering systems. It includes identifying and confirming work requirements, preparing for work, diagnosing steering system faults, repairing or replacing faulty components, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTF101",
+      "name": "Inspect and service petrol fuel systems",
+      "desc": "This unit covers the skills and knowledge required to inspect and service petrol fuel systems in vehicles. It includes preparing for the task, inspecting petrol fuel systems, servicing or replacing components as required, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit involves the skills and knowledge required to use and maintain tools and equipment in an automotive workplace. It includes selecting and using appropriate tools and equipment, performing routine maintenance, and storing tools and equipment correctly. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTB101",
+      "name": "Inspect and service braking systems",
+      "desc": "This unit describes the performance outcomes required to inspect and service braking systems in vehicles, vessels, or machinery. It involves preparing for the task, inspecting the braking system, reporting the inspection findings, servicing and adjusting the braking system, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR123",
+      "name": "Diagnose and repair spark ignition engine management systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in spark ignition engine management systems of vehicles or machinery. It involves preparing for the task, diagnosing and repairing system faults, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge, and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the performance outcomes required to test, charge, and replace batteries, and jump-start vehicles. It involves preparing for the task, testing batteries, charging and replacing batteries, jump-starting vehicles, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURLTD105",
+      "name": "Diagnose and repair light vehicle suspension systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle suspension systems. It involves preparing for the task, diagnosing and repairing suspension system faults, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURLTB103",
+      "name": "Diagnose and repair light vehicle hydraulic braking systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle hydraulic braking systems. It involves preparing for the task, diagnosing and repairing hydraulic braking system faults, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to inspect and service automatic transmissions in light vehicles. It involves preparing for the task, inspecting the transmission for leaks, wear, and damage, checking fluid levels and conditions, replacing filters and fluids, performing basic adjustments, and completing workplace processes and documentation. This unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR129",
+      "name": "Diagnose and repair charging systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in vehicle charging systems. It involves preparing for the task, testing and diagnosing charging system components such as alternators and voltage regulators, repairing or replacing faulty components, verifying system performance, and completing workplace processes and documentation. This unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit involves the skills and knowledge required to develop and implement diagnostic test strategies to identify complex faults in vehicles, vessels, or machinery. It includes confirming the existence of faults, conducting systematic diagnostic tests, analysing test results, and developing rectification strategies. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURLTZ101",
+      "name": "Diagnose and repair light vehicle emission control systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle emission control systems. It involves preparing for the task, diagnosing emission control system faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge required to apply safe working practices in an automotive workplace. It includes identifying and following workplace procedures for hazard identification and risk control, contributing to arrangements for managing occupational health and safety, and completing workplace safety documentation. The unit applies to those working in all sectors of the automotive industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit involves the skills and knowledge required to test and repair basic electrical circuits in vehicles, vessels, or machinery. It includes preparing for the task, testing electrical circuits, repairing faulty circuits, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR130",
+      "name": "Diagnose and repair starting systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in starting systems of vehicles, vessels, or machinery. It involves preparing for the task, diagnosing starting system faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR131",
+      "name": "Diagnose and repair ignition systems",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair faults in ignition systems of vehicles, vessels, or machinery. It includes preparing for the task, diagnosing ignition system faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTC103",
+      "name": "Diagnose and repair cooling systems",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair faults in cooling systems of vehicles, vessels, or machinery. It includes preparing for the task, diagnosing cooling system faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA104",
+      "name": "Carry out servicing operations",
+      "desc": "This unit involves the skills and knowledge required to carry out servicing operations on vehicles, vessels, or machinery. It includes preparing for the task, carrying out routine servicing operations, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTE104",
+      "name": "Inspect and service engines",
+      "desc": "This unit describes the performance outcomes required to inspect and service engines in light vehicles. It involves preparing for the task, inspecting the engine, servicing the engine, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "core"
+    }
+  ],
+    "AUR31120": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit outlines the skills and knowledge required to follow environmental and sustainability best practices in an automotive workplace. It involves complying with workplace procedures, environmental regulations, and implementing sustainability practices to minimise the environmental impact of work activities. The unit applies to individuals working in the automotive industry, ensuring they contribute to reducing waste, conserving resources, and adhering to legal and organisational environmental requirements.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit focuses on developing the skills and knowledge required to follow safe working practices in an automotive workplace. It covers identifying workplace hazards, using personal protective equipment (PPE), and adhering to safety procedures to prevent accidents and injuries. The unit is essential for ensuring a safe working environment and is applicable to individuals across various roles in the automotive industry.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit provides the skills and knowledge needed to test and repair basic electrical circuits in automotive systems. It involves using diagnostic tools, interpreting circuit diagrams, and repairing faults to restore functionality. The unit is essential for automotive electricians and technicians, ensuring they can maintain and repair electrical systems in vehicles.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR122",
+      "name": "Diagnose and repair vehicle dynamic control systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in vehicle dynamic control systems, such as electronic stability control (ESC) and anti-lock braking systems (ABS). It involves preparing for the task, selecting appropriate diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is essential for automotive technicians working on modern vehicles equipped with advanced safety and control systems.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR124",
+      "name": "Diagnose and repair compression ignition engine management systems",
+      "desc": "This unit outlines the skills and knowledge required to diagnose and repair faults in compression ignition (diesel) engine management systems. It covers preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is critical for technicians working on diesel-powered vehicles, vessels, or machinery, ensuring they can maintain and repair complex engine management systems.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test charge and replace batteries and jump-start vehicles",
+      "desc": "This unit focuses on the skills and knowledge required to test, charge, and replace vehicle batteries, as well as jump-start vehicles. It includes preparing for the task, using appropriate tools and equipment, performing battery testing and charging, replacing batteries, and safely jump-starting vehicles.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR129",
+      "name": "Diagnose and repair charging systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in vehicle charging systems, including alternators and related components. It involves preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is critical for automotive electricians and technicians, ensuring they can maintain and repair charging systems effectively.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR130",
+      "name": "Diagnose and repair starting systems",
+      "desc": "This unit outlines the skills and knowledge required to diagnose and repair faults in vehicle starting systems, including starters and related components. It covers preparing for the task, selecting diagnostic procedures, identifying faults, performing repairs, and completing post-repair testing and documentation. The unit is essential for automotive technicians, ensuring they can maintain and repair starting systems effectively.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR132",
+      "name": "Diagnose and repair automotive electrical systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair automotive electrical systems. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to electrical systems in various automotive contexts, including wiring, lighting, and electronic components. It requires the use of diagnostic equipment, tools, and materials appropriate for automotive electrical repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTB101",
+      "name": "Diagnose and repair heavy vehicle air braking systems",
+      "desc": "This unit focuses on diagnosing and repairing air braking systems in heavy vehicles. It involves identifying faults, testing system components, and performing repairs to ensure the braking system operates safely and efficiently. The unit requires knowledge of air braking system components, their functions, and the procedures for diagnosing and repairing faults. It applies to heavy vehicles such as trucks, buses, and trailers.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTD102",
+      "name": "Diagnose and repair heavy vehicle steering systems",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair steering systems in heavy vehicles. It includes identifying steering system components, diagnosing faults, and performing repairs to ensure safe and efficient steering operation. The unit covers both manual and power steering systems and applies to heavy vehicles such as trucks and buses. It requires the use of appropriate tools and equipment for steering system repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTD103",
+      "name": "Diagnose and repair heavy vehicle suspension systems",
+      "desc": "This unit covers the diagnosis and repair of suspension systems in heavy vehicles. It involves identifying suspension system components, diagnosing faults, and performing repairs to ensure safe and efficient vehicle operation. The unit applies to heavy vehicles such as trucks and buses and requires knowledge of suspension system types, components, and repair procedures. It also involves the use of appropriate tools and equipment for suspension system repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTE102",
+      "name": "Diagnose and repair heavy vehicle compression ignition engines",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the compression ignition engines of heavy vehicles. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry, including heavy commercial vehicles, agricultural machinery, mobile plant machinery, and marine vessels. It requires the use of diagnostic equipment, tools, and materials specific to compression ignition engines.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTQ103",
+      "name": "Diagnose and repair heavy vehicle drive shafts",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair drive shafts in heavy vehicles. It involves identifying faults, testing components, and performing repairs to ensure the drive shaft system operates safely and efficiently. The unit applies to heavy vehicles such as trucks, buses, and trailers. It requires knowledge of drive shaft components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of appropriate tools and equipment for drive shaft repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTX103",
+      "name": "Diagnose and repair heavy vehicle automatic transmissions",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair automatic transmissions in heavy vehicles. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. The unit applies to heavy vehicles such as trucks and buses. It requires knowledge of automatic transmission components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of diagnostic equipment, tools, and materials specific to automatic transmissions.",
+      "type": "core"
+    },
+    {
+      "code": "AURHTZ101",
+      "name": "Diagnose and repair heavy vehicle emission control systems",
+      "desc": "This unit covers the skills and knowledge required to diagnose and repair emission control systems in heavy vehicles. It involves identifying faults, testing system components, and performing repairs to ensure the emission control system operates efficiently and complies with environmental regulations. The unit applies to heavy vehicles such as trucks and buses. It requires knowledge of emission control system components, their functions, and the procedures for diagnosing and repairing faults. The unit also involves the use of appropriate tools and equipment for emission control system repairs.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA006",
+      "name": "Inspect and service hydraulic systems",
+      "desc": "This unit involves the skills and knowledge required to inspect and service hydraulic systems in vehicles or machinery. It includes preparing for the task, inspecting the system for leaks or damage, testing system operation, replacing or repairing faulty components, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA104",
+      "name": "Carry out servicing operations",
+      "desc": "This unit covers the competencies required to perform routine servicing operations on vehicles or machinery. It encompasses preparing for the task, conducting inspections, replacing fluids and filters, checking and adjusting components, resetting service indicators, and finalising workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit involves developing and implementing diagnostic test strategies to identify faults in complex systems of vehicles or machinery. It includes researching and selecting appropriate diagnostic procedures, planning and conducting tests, analysing results to pinpoint issues, rectifying identified faults, and completing necessary workplace documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTC103",
+      "name": "Diagnose and repair cooling systems",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair cooling systems in vehicles or machinery. It includes preparing for the task, identifying and testing cooling system components, analysing faults, repairing or replacing defective parts, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTF102",
+      "name": "Inspect and service diesel fuel injection systems",
+      "desc": "This unit focuses on inspecting and servicing diesel fuel injection systems in vehicles or machinery. It involves preparing for the task, examining fuel injection components for wear or damage, performing servicing procedures, testing system functionality, and completing required workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTF105",
+      "name": "Diagnose and repair engine forced-induction systems",
+      "desc": "This unit involves diagnosing and repairing engine forced-induction systems, such as turbochargers and superchargers, in vehicles or machinery. It includes preparing for the task, applying diagnostic procedures to identify faults, repairing or replacing defective components, testing system performance, and completing necessary workplace documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit involves the skills and knowledge required to select, use, and maintain tools and equipment in an automotive workplace. It includes identifying the appropriate tools and equipment for specific tasks, operating them according to manufacturer specifications and workplace procedures, performing routine maintenance to ensure their serviceability, and adhering to safety and environmental regulations.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTQ001",
+      "name": "Inspect and service final drive assemblies",
+      "desc": "This unit covers the competencies required to inspect and service final drive assemblies in vehicles. It encompasses preparing for the task, conducting inspections to identify wear or damage, performing servicing operations such as adjusting or replacing components, testing the assembly for correct operation, and completing workplace processes and documentation.",
+      "type": "core"
+    }
+  ]
 }
