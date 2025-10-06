@@ -7917,37 +7917,19 @@
     "desc": "This unit describes the skills and knowledge required to carry out servicing operations. It involves preparing for the task, identifying lubricant requirements, servicing and adjusting vehicle and machinery, reporting the inspection findings, and completing workplace processes and documentation.",
     "type": "core"
   },
-  {
-    "code": "AURTTA113",
-    "name": "Diagnose and repair hydraulic systems",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair hydraulic systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
-    "type": "elective"
-  },
-  {
+    {
     "code": "AURTTA118",
     "name": "Develop and carry out diagnostic test strategies",
     "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
     "type": "core"
   },
-  {
-    "code": "AURTTB101",
-    "name": "Inspect and service braking systems",
-    "desc": "This unit describes the skills and knowledge required to inspect and service braking systems according to manufacturer specifications. It involves preparing for the task, inspecting the system, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation.",
-    "type": "elective"
-  },
-  {
+    {
     "code": "AURTTC103",
     "name": "Diagnose and repair cooling systems",
     "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the cooling systems of vehicles. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
     "type": "core"
   },
-  {
-    "code": "AURTTE104",
-    "name": "Inspect and service engines",
-    "desc": "This unit describes the skills and knowledge required to inspect and service engines.",
-    "type": "elective"
-  },
-  {
+    {
     "code": "AURTTF102",
     "name": "Inspect and service diesel fuel injection systems",
     "desc": "This unit describes the skills and knowledge required to inspect and service diesel fuel injection systems. It involves preparing for the task, inspecting the fuel injection system for leaks, inspecting the air filter, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation.",
@@ -7959,13 +7941,7 @@
     "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in engine forced-induction systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
     "type": "core"
   },
-  {
-    "code": "AURTTK001",
-    "name": "Use and maintain measuring equipment in an automotive workplace",
-    "desc": "This unit describes the performance outcomes required to select, use, maintain and store automotive measuring equipment. It involves selecting and maintaining measuring equipment, and using measuring equipment to determine length, width, angles, ovality, depth, out of square, clearances, run-out, pressure and temperature of automotive components and materials.",
-    "type": "elective"
-  },
-  {
+    {
     "code": "AURTTK102",
     "name": "Use and maintain tools and equipment in an automotive workplace",
     "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
@@ -7976,6 +7952,30 @@
     "name": "Inspect and service final drive assemblies",
     "desc": "This unit describes the performance outcomes required to inspect and service final drive assemblies. It involves preparing for the task, inspecting the assembly, reporting the inspection findings, servicing and adjusting the assembly, and completing workplace processes and documentation.",
     "type": "core"
+  },
+  {
+    "code": "AURTTA113",
+    "name": "Diagnose and repair hydraulic systems",
+    "desc": "This unit describes the skills and knowledge required to diagnose and repair hydraulic systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation.",
+    "type": "elective"
+  },
+  {
+    "code": "AURTTB101",
+    "name": "Inspect and service braking systems",
+    "desc": "This unit describes the skills and knowledge required to inspect and service braking systems according to manufacturer specifications. It involves preparing for the task, inspecting the system, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation.",
+    "type": "elective"
+  },
+  {
+    "code": "AURTTE104",
+    "name": "Inspect and service engines",
+    "desc": "This unit describes the skills and knowledge required to inspect and service engines.",
+    "type": "elective"
+  },
+  {
+    "code": "AURTTK001",
+    "name": "Use and maintain measuring equipment in an automotive workplace",
+    "desc": "This unit describes the performance outcomes required to select, use, maintain and store automotive measuring equipment. It involves selecting and maintaining measuring equipment, and using measuring equipment to determine length, width, angles, ovality, depth, out of square, clearances, run-out, pressure and temperature of automotive components and materials.",
+    "type": "elective"
   },
   {
     "code": "AURTTX102",
