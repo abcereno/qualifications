@@ -6878,104 +6878,200 @@
             "type": "elective "
         }
     ],
-"45637AUR32721": [
-  {
-    "code": "AURAEA002",
-    "name": "Follow environmental and sustainability best practice in an automotive workplace",
-    "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
-    "type": "core"
-  },
-  {
-    "code": "AURASA102",
-    "name": "Follow safe working practices in an automotive workplace",
-    "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
-    "type": "core"
-  },
-  {
-    "code": "AURETH101",
-    "name": "Depower and reinitialise battery electric vehicles",
-    "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
-    "type": "core"
-  },
-  {
-    "code": "AURETH102",
-    "name": "Inspect and maintain battery electric vehicles*",
-    "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
-    "type": "core"
-  },
-  {
-    "code": "AURETH104",
-    "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETH105",
-    "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETH106",
-    "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETH107",
-    "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETH108",
-    "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETH109",
-    "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
-    "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
-    "type": "core"
-  },
-  {
-    "code": "AURETK002",
-    "name": "Use and maintain electrical test equipment in an automotive workplace",
-    "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
-    "type": "core"
-  },
-  {
-    "code": "AURETR112",
-    "name": "Test and repair basic electrical circuits",
-    "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
-    "type": "core"
-  },
-  {
-    "code": "AURETR125",
-    "name": "Test, charge and replace batteries and jump-start vehicles",
-    "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
-    "type": "core"
-  },
-  {
-    "code": "AURETU103",
-    "name": "Service air conditioning and HVAC systems",
-    "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
-    "type": "core"
-  },
-  {
-    "code": "AURTTA118",
-    "name": "Develop and carry out diagnostic test strategies",
-    "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
-    "type": "core"
-  },
-  {
-    "code": "AURTTK102",
-    "name": "Use and maintain tools and equipment in an automotive workplace",
-    "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
-    "type": "core"
-  }
-],
+  "45637AUR32721": [
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "core"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "core"
+    },
+    {
+      "code": "AURETH101",
+      "name": "Depower and reinitialise battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
+      "type": "core"
+    },
+    {
+      "code": "AURETH102",
+      "name": "Inspect and maintain battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
+      "type": "core"
+    },
+    {
+      "code": "AURETH104",
+      "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETH105",
+      "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETH106",
+      "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETH107",
+      "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETH108",
+      "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETH109",
+      "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "core"
+    },
+    {
+      "code": "AURETK002",
+      "name": "Use and maintain electrical test equipment in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURETU103",
+      "name": "Service air conditioning and HVAC systems",
+      "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
+      "type": "core"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+      "type": "core"
+    },
+    {
+      "code": "AURAEA002",
+      "name": "Follow environmental and sustainability best practice in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
+      "type": "elective"
+    },
+    {
+      "code": "AURASA102",
+      "name": "Follow safe working practices in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH101",
+      "name": "Depower and reinitialise battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to depower and reinitialise battery electric vehicles (BEVs). It involves ensuring the vehicle high voltage (HV) rechargeable energy storage system (RESS) is isolated before commencing any service or repair work. It also involves calibrating vehicle systems that may need resetting once the energy storage system is reinitialised. Importance is placed in the unit on applying RESS and separated extra low voltage (SELV) electrical safety procedures.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH102",
+      "name": "Inspect and maintain battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to inspect and maintain battery electric vehicles (BEVs). It involves working with automotive electrical components, maintaining rechargeable energy storage systems (RESS), and performing basic tests on electric drive motors. Importance is placed in the unit on applying both high voltage (HV) rechargeable energy storage systems RESS and separated extra low voltage (SELV) electrical safety procedures.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH104",
+      "name": "Diagnose and repair traction motor speed control systems in battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the traction motor speed control systems of battery electric vehicles (BEVs). These systems may be referred to as digital motor controllers (DMCs) or motor control units (MCUs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH105",
+      "name": "Diagnose and repair high voltage traction motors in battery electric vehicles",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage traction motors of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH106",
+      "name": "Diagnose and repair auxiliary motors and associated components in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the auxiliary motors of battery electric vehicles (BEVs), and in their associated components and control systems. The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH107",
+      "name": "Diagnose and repair system instrumentation and safety interlocks in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the system instrumentation and safety interlocks of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH108",
+      "name": "Diagnose and repair HVAC and rechargeable energy storage cooling systems in battery electric vehicle*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the heating, ventilation and air conditioning (HVAC) and rechargeable energy storage cooling systems of battery electric vehicles (BEVs). The unit involves removing and replacing refrigerant, as well as performance testing the HVAC and RESS cooling system. It involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETH109",
+      "name": "Diagnose and repair DC to DC converters in battery electric vehicles*",
+      "desc": "This unit describes the skills and knowledge required to diagnose and repair faults in the high voltage (HV) direct current (DC) to low voltage (LV) DC of battery electric vehicles (BEVs). The unit involves preparing for the task, sourcing a diagnostic testing strategy, diagnosing the cause of the fault, carrying out the repair, performing post-repair testing, and completing workplace processes and documentation. Importance is placed in the unit on applying electrical safety procedures when working on high voltage (HV) rechargeable energy storage systems (RESS).",
+      "type": "elective"
+    },
+    {
+      "code": "AURETK002",
+      "name": "Use and maintain electrical test equipment in an automotive workplace",
+      "desc": "This unit describes the performance outcomes required to select, use and maintain electrical test equipment used in an automotive workplace for the purpose of identifying, diagnosing and rectifying electrical and electronic faults in vehicles or machinery.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETR112",
+      "name": "Test and repair basic electrical circuits",
+      "desc": "This unit describes the skills and knowledge required to inspect, test and repair basic electrical circuits in vehicle and machinery electrical systems. It involves preparing for the task, inspecting and testing the circuit, repairing the circuit, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETR125",
+      "name": "Test, charge and replace batteries and jump-start vehicles",
+      "desc": "This unit describes the skills and knowledge required to test, charge, replace, retest and secure a range of automotive batteries, including vehicle or machinery jump-starting procedures. It involves preparing for the task, inspecting and testing the battery to determine serviceability, charging, jump-starting, removing and replacing, and undertaking the final retesting of batteries, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURETU103",
+      "name": "Service air conditioning and HVAC systems",
+      "desc": "This unit describes the skills and knowledge required to service air conditioning systems, including heating, ventilation and air conditioning (HVAC) systems, fitted to a range of vehicles and machinery. It involves preparing for the task, carrying out performance testing and correct servicing procedures, performing post-service testing, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTA118",
+      "name": "Develop and carry out diagnostic test strategies",
+      "desc": "This unit describes the skills and knowledge required to develop and carry out a diagnostic testing strategy on vehicles, vessels or machinery. It involves confirming the existence of a fault, identifying the required diagnostic information, developing a diagnostic strategy, applying the diagnostic strategy, and reporting conclusions.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTK102",
+      "name": "Use and maintain tools and equipment in an automotive workplace",
+      "desc": "This unit describes the skills and knowledge required to select, use, maintain and store tools and equipment in an automotive workplace.",
+      "type": "elective"
+    }
+  ],
 "45637MEM30219": [
   { "code": "MEM09002", "name": "Interpret technical drawing", "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings. Technical drawings may utilise perspective, exploded views or hidden view techniques and may include symbol glossaries. Drawings are provided to AS 1100 Technical drawing or AS 1102 Graphical symbols and their equivalents from the full range of engineering disciplines.", "type": "core" },
   { "code": "MEM11011", "name": "Undertake manual handling", "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.", "type": "core" },
