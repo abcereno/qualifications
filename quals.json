@@ -7800,6 +7800,96 @@
       "name": "Inspect and service engines",
       "desc": "This unit describes the performance outcomes required to inspect and service engines in light vehicles. It involves preparing for the task, inspecting the engine, servicing the engine, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
       "type": "core"
+    },
+    {
+      "code": "AURETR010",
+      "name": "Repair wiring harnesses and looms",
+      "desc": "This unit describes the performance outcomes required to repair wiring harnesses and looms in vehicles, vessels, or machinery. It involves preparing for the task, repairing wiring harnesses and looms, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTJ113",
+      "name": "Remove, inspect, and refit light vehicle wheel and tyre assemblies",
+      "desc": "This unit describes the skills and knowledge required to remove, inspect, and refit wheel and tyre assemblies in light vehicles. It involves preparing for the task, safely removing wheel and tyre assemblies, inspecting them for wear, damage, and compliance with specifications, performing necessary repairs or replacements, refitting the assemblies, and completing workplace processes and documentation. This unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTQ101",
+      "name": "Diagnose and repair light vehicle final drive assemblies",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle final drive assemblies. It involves preparing for the task, diagnosing final drive assembly faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTQ102",
+      "name": "Diagnose and repair light vehicle drive shafts",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair faults in light vehicle drive shafts. It includes preparing for the task, diagnosing drive shaft faults, repairing or replacing faulty components, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTX101",
+      "name": "Diagnose and repair light vehicle manual transmissions",
+      "desc": "This unit involves the skills and knowledge required to diagnose and repair faults in light vehicle manual transmissions. It includes preparing for the task, diagnosing manual transmission faults, repairing or replacing faulty components, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTX102",
+      "name": "Diagnose and repair light vehicle automatic transmissions",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle automatic transmissions. It involves preparing for the task, diagnosing automatic transmission faults, repairing or replacing faulty components, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURLTX103",
+      "name": "Diagnose and repair light vehicle clutch systems",
+      "desc": "This unit describes the performance outcomes required to diagnose and repair faults in light vehicle clutch systems. It involves preparing for the task, diagnosing and repairing clutch system faults, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTA105",
+      "name": "Select and use bearings, seals, gaskets, sealants, and adhesives",
+      "desc": "This unit describes the skills and knowledge required to select and use bearings, seals, gaskets, sealants, and adhesives in vehicles. It involves identifying work requirements, selecting appropriate components and materials, using them correctly, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTB015",
+      "name": "Assemble and fit braking system components",
+      "desc": "This unit describes the skills and knowledge required to assemble and fit braking system components in vehicles. It involves preparing for the task, assembling braking system components, fitting them to the vehicle, and completing work processes. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTC001",
+      "name": "Inspect and service cooling systems",
+      "desc": "This unit describes the skills and knowledge required to inspect and service cooling systems in vehicles, vessels, or machinery. It involves preparing for the task, inspecting the cooling system for leaks and component wear, testing coolant concentration and temperature, flushing and refilling the system, and completing workplace processes and documentation. Servicing may include replacing coolants, hoses, and other components as required. This unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTD002",
+      "name": "Inspect and service steering systems",
+      "desc": "This unit describes the performance outcomes required to inspect and service steering systems in vehicles, vessels, or machinery. It involves preparing for the task, inspecting the steering system for wear and damage, servicing the system, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTD004",
+      "name": "Inspect and service suspension systems",
+      "desc": "This unit describes the performance outcomes required to inspect and service suspension systems in vehicles. It involves preparing for the task, inspecting the suspension system, reporting the inspection findings, servicing and adjusting the suspension system, and completing workplace processes and documentation.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTK001",
+      "name": "Use and maintain measuring equipment in an automotive workplace",
+      "desc": "This unit covers the skills and knowledge required to select, use, and maintain measuring equipment in an automotive workplace. It includes preparing for the task, selecting and using measuring equipment, maintaining measuring equipment, and completing workplace processes and documentation. The unit applies to those working in the automotive service and repair industry.",
+      "type": "elective"
+    },
+    {
+      "code": "AURVTA104",
+      "name": "Inspect damaged vechile systems and recommend repairs",
+      "desc": "This unit involves preparing for the task, inspecting vehicle system damage, determining the extent of damage by measuring and recommending repair options consistent with original equipment manufacturer (OEM) or authorised agency repair instructions. It also involves completing workplace processes and other documentation, including a final inspection report.",
+      "type": "elective"
+    },
+    {
+      "code": "AURTTL007",
+      "name": "Inspect and service LPG fuel systems",
+      "desc": "This unit involves preparing for the task, inspecting the system, reporting the inspection findings, servicing and adjusting the system, and completing workplace processes and documentation. It applies to those working in the automotive service and repair industry. The LPG fuel systems include those of agricultural machinery, forklifts, heavy commercial vehicles, light vehicles or mobile plant machinery.",
+      "type": "elective"
     }
   ],
 "45637AUR31120": [
@@ -7808,6 +7898,12 @@
     "name": "Follow environmental and sustainability best practice in an automotive workplace",
     "desc": "This unit describes the performance outcomes required to follow environmental and sustainability best practices, including complying with established workplace procedures and environmental regulations as well as following sustainability practices that may reduce the environmental impact of work practices and outputs.",
     "type": "core"
+  },
+  {
+    "code": "AURAFA103",
+    "name": "Communicate effectively in an automotive workplace",
+    "desc": "This unit describes the skills and knowledge required to communicate in an automotive workplace. It involves communicating effectively by conveying and receiving information using verbal and non-verbal techniques and correct automotive technical terminology.",
+    "type": "elective"
   },
   {
     "code": "AURASA102",
@@ -7946,12 +8042,6 @@
     "name": "Inspect and service final drive assemblies",
     "desc": "This unit describes the performance outcomes required to inspect and service final drive assemblies. It involves preparing for the task, inspecting the assembly, reporting the inspection findings, servicing and adjusting the assembly, and completing workplace processes and documentation.",
     "type": "core"
-  },
-    {
-    "code": "AURAFA103",
-    "name": "Communicate effectively in an automotive workplace",
-    "desc": "This unit describes the skills and knowledge required to communicate in an automotive workplace. It involves communicating effectively by conveying and receiving information using verbal and non-verbal techniques and correct automotive technical terminology.",
-    "type": "elective"
   },
   {
     "code": "AURTTA113",
