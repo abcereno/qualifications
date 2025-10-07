@@ -8851,6 +8851,302 @@
       "type": "elective"
     }
   ],
+  "45637MEM31925SF": [
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify and address environmental issues, minimise negative impacts, and implement improvements.",
+      "type": "core"
+    }
+  ],
+  "45637MEM31925SM": [
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify and address environmental issues, minimise negative impacts, and implement improvements.",
+      "type": "core"
+    }
+  ],
+  "45637MEM31925BW": [
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify and address environmental issues, minimise negative impacts, and implement improvements.",
+      "type": "core"
+    }
+  ],
+  "45637MEM31925W": [
+    {
+      "code": "MEM18001",
+      "name": "Use hand tools",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand tools for a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM18002",
+      "name": "Use power tools/hand held operations",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of hand held power tools and fixed power tools for hand held operations used in a variety of general engineering applications.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16008",
+      "name": "Interact with computing technology",
+      "desc": "This unit of competency defines the skills and knowledge required to use a range of computing technology typically used in manufacturing, engineering or related environments to access, input and store information.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12023",
+      "name": "Perform engineering measurements",
+      "desc": "This unit of competency defines the skills and knowledge required to perform measurements requiring straightforward use of mechanical measuring devices which incorporate visual inspections representing units of measurement and associated calculations in a range of manufacturing, engineering and related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM11011",
+      "name": "Undertake manual handling",
+      "desc": "This unit of competency defines the skills and knowledge required to lift and move materials manually and/or using basic manual handling equipment in a wide range of environments.",
+      "type": "core"
+    },
+    {
+      "code": "MEM09002",
+      "name": "Interpret technical drawing",
+      "desc": "This unit of competency defines the skills and knowledge required to interpret technical drawings.",
+      "type": "core"
+    },
+    {
+      "code": "MEM12024",
+      "name": "Perform computations",
+      "desc": "This unit of competency defines the skills and knowledge required to estimate approximate answers to arithmetical problems, carry out calculations involving percentages and proportions, and determine simple ratios and averages.",
+      "type": "core"
+    },
+    {
+      "code": "MEM17003",
+      "name": "Assist in the provision of on-the-job training",
+      "desc": "This unit of competency defines the skills and knowledge required to assist in the provision of on-the-job training to others while undertaking normal duties.",
+      "type": "core"
+    },
+    {
+      "code": "MEM13015",
+      "name": "Work safely and effectively in manufacturing and engineering",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM14006",
+      "name": "Plan work activities",
+      "desc": "This unit of competency covers the skills and knowledge required to plan familiar work activities, whilst following established procedures and WHS policies and procedures of the organisation.",
+      "type": "core"
+    },
+    {
+      "code": "MEM16006",
+      "name": "Organise and communicate information",
+      "desc": "This unit of competency covers the skills and knowledge required to access, organise and communicate information related to production, maintenance or associated processes or tasks in manufacturing, engineering or related environments.",
+      "type": "core"
+    },
+    {
+      "code": "MSMENV272",
+      "name": "Participate in environmentally sustainable work practices",
+      "desc": "This unit describes the skills and knowledge required to comply with environmental regulations, identify and address environmental issues, minimise negative impacts, and implement improvements.",
+      "type": "core"
+    }
+  ],
   "45637MEM30219F": [
     {
       "code": "MEM09002",
