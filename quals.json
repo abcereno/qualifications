@@ -7900,12 +7900,6 @@
     "type": "core"
   },
   {
-    "code": "AURAFA103",
-    "name": "Communicate effectively in an automotive workplace",
-    "desc": "This unit describes the skills and knowledge required to communicate in an automotive workplace. It involves communicating effectively by conveying and receiving information using verbal and non-verbal techniques and correct automotive technical terminology.",
-    "type": "elective"
-  },
-  {
     "code": "AURASA102",
     "name": "Follow safe working practices in an automotive workplace",
     "desc": "This unit describes the skills and knowledge required to identify and follow safety and emergency procedures in an automotive workplace. It involves safety procedures to be followed when using workplace hand tools and hand-held power tools, fixed equipment, and chemicals, and when running vehicles and machinery. It includes the individual’s responsibility for safety and emergency response in the event of an accident or incident.",
@@ -8042,6 +8036,12 @@
     "name": "Inspect and service final drive assemblies",
     "desc": "This unit describes the performance outcomes required to inspect and service final drive assemblies. It involves preparing for the task, inspecting the assembly, reporting the inspection findings, servicing and adjusting the assembly, and completing workplace processes and documentation.",
     "type": "core"
+  },
+    {
+    "code": "AURAFA103",
+    "name": "Communicate effectively in an automotive workplace",
+    "desc": "This unit describes the skills and knowledge required to communicate in an automotive workplace. It involves communicating effectively by conveying and receiving information using verbal and non-verbal techniques and correct automotive technical terminology.",
+    "type": "elective"
   },
   {
     "code": "AURTTA113",
